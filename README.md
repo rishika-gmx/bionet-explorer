@@ -119,6 +119,11 @@ bionet-explorer/
 │   ├── visualize_curated_network.py
 │   └── visualize_stable_module.py
 ├── results/
+├── visualizations/
+│   ├── interferon_network.html
+│   └── reference_network/
+│       ├── interferon_network.html
+│       └── stable_interferon_module.html
 │   └── reference_network/
 ├── tests/
 ├── app.py
