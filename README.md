@@ -95,8 +95,16 @@ Together, these findings show that the inferred network contains recognizable in
 
 The project generates two interactive HTML files:
 
-- **Full network:** `results/visualizations/reference_network/interferon_network.html`
-- **Stable interferon/antiviral-associated module:** `results/visualizations/reference_network/stable_interferon_module.html`
+-
+## Visualizations
+
+
+## Visualizations
+
+- **Full network:** [Open network HTML](results/visualizations/reference_network/interferon_network.html)
+- **Stable interferon/antiviral module:** [Open stable module HTML](results/visualizations/reference_network/stable_interferon_module.html)
+- **Pilot network:** [Open pilot network HTML](results/visualizations/interferon_network.html)
+
 
 Open either file in a web browser to explore protein labels, connections, and network metrics.
 
