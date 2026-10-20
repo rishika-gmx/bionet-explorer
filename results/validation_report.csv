@@ -1,0 +1,2 @@
+interaction_rows,unique_proteins,missing_endpoint_rows,invalid_score_rows,nonhuman_rows,duplicate_edges,self_loops,minimum_score,maximum_score
+123,20,0,0,0,0,0,0.701,0.999

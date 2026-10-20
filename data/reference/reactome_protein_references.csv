@@ -1,0 +1,1024 @@
+gene_symbol,reference_display_name,reference_stable_id,reference_schema_class,participant_name,participant_class
+CAMK2B,UniProt:Q13554 CAMK2B,uniprot:Q13554,ReferenceGeneProduct,CaMKII and PKC-delta [cytosol],DefinedSet
+CAMK2A,UniProt:Q9UQM7 CAMK2A,uniprot:Q9UQM7,ReferenceGeneProduct,CaMKII and PKC-delta [cytosol],DefinedSet
+CAMK2D,UniProt:Q13557 CAMK2D,uniprot:Q13557,ReferenceGeneProduct,CaMKII and PKC-delta [cytosol],DefinedSet
+CAMK2G,UniProt:Q13555 CAMK2G,uniprot:Q13555,ReferenceGeneProduct,CaMKII and PKC-delta [cytosol],DefinedSet
+PRKCD,UniProt:Q05655 PRKCD,uniprot:Q05655,ReferenceGeneProduct,CaMKII and PKC-delta [cytosol],DefinedSet
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,p-STAT1(Y701) bound to p-IFNGR1 [plasma membrane],Complex
+IFNG,UniProt:P01579 IFNG,uniprot:P01579,ReferenceGeneProduct,p-STAT1(Y701) bound to p-IFNGR1 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,p-STAT1(Y701) bound to p-IFNGR1 [plasma membrane],Complex
+IFNGR1,UniProt:P15260 IFNGR1,uniprot:P15260,ReferenceGeneProduct,p-STAT1(Y701) bound to p-IFNGR1 [plasma membrane],Complex
+JAK2,UniProt:O60674 JAK2,uniprot:O60674,ReferenceGeneProduct,p-STAT1(Y701) bound to p-IFNGR1 [plasma membrane],Complex
+IFNGR2,UniProt:P38484 IFNGR2,uniprot:P38484,ReferenceGeneProduct,p-STAT1(Y701) bound to p-IFNGR1 [plasma membrane],Complex
+IFNG,UniProt:P01579 IFNG,uniprot:P01579,ReferenceGeneProduct,p-STAT1 dimer bound to p-IFNGR1 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,p-STAT1 dimer bound to p-IFNGR1 [plasma membrane],Complex
+IFNGR1,UniProt:P15260 IFNGR1,uniprot:P15260,ReferenceGeneProduct,p-STAT1 dimer bound to p-IFNGR1 [plasma membrane],Complex
+JAK2,UniProt:O60674 JAK2,uniprot:O60674,ReferenceGeneProduct,p-STAT1 dimer bound to p-IFNGR1 [plasma membrane],Complex
+IFNGR2,UniProt:P38484 IFNGR2,uniprot:P38484,ReferenceGeneProduct,p-STAT1 dimer bound to p-IFNGR1 [plasma membrane],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,p-STAT1 dimer bound to p-IFNGR1 [plasma membrane],Complex
+IFNG,UniProt:P01579 IFNG,uniprot:P01579,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+IFNGR1,UniProt:P15260 IFNGR1,uniprot:P15260,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+JAK2,UniProt:O60674 JAK2,uniprot:O60674,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+IFNGR2,UniProt:P38484 IFNGR2,uniprot:P38484,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+IFNG,UniProt:P01579 IFNG,uniprot:P01579,ReferenceGeneProduct,IFNG:IFNGR1:p-JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNG:IFNGR1:p-JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+IFNGR1,UniProt:P15260 IFNGR1,uniprot:P15260,ReferenceGeneProduct,IFNG:IFNGR1:p-JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+JAK2,UniProt:O60674 JAK2,uniprot:O60674,ReferenceGeneProduct,IFNG:IFNGR1:p-JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+IFNGR2,UniProt:P38484 IFNGR2,uniprot:P38484,ReferenceGeneProduct,IFNG:IFNGR1:p-JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+PTPN6,UniProt:P29350 PTPN6,uniprot:P29350,ReferenceGeneProduct,PTPN6 [cytosol],EntityWithAccessionedSequence
+IFNG,UniProt:P01579 IFNG,uniprot:P01579,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2:SOCS-1/-3 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2:SOCS-1/-3 [plasma membrane],Complex
+IFNGR1,UniProt:P15260 IFNGR1,uniprot:P15260,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2:SOCS-1/-3 [plasma membrane],Complex
+JAK2,UniProt:O60674 JAK2,uniprot:O60674,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2:SOCS-1/-3 [plasma membrane],Complex
+IFNGR2,UniProt:P38484 IFNGR2,uniprot:P38484,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2:SOCS-1/-3 [plasma membrane],Complex
+SOCS1,UniProt:O15524 SOCS1,uniprot:O15524,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2:SOCS-1/-3 [plasma membrane],Complex
+SOCS3,UniProt:O14543 SOCS3,uniprot:O14543,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2:SOCS-1/-3 [plasma membrane],Complex
+IFNG,UniProt:P01579 IFNG,uniprot:P01579,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:JAK2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:JAK2 [plasma membrane],Complex
+IFNGR1,UniProt:P15260 IFNGR1,uniprot:P15260,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:JAK2 [plasma membrane],Complex
+IFNGR2,UniProt:P38484 IFNGR2,uniprot:P38484,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:JAK2 [plasma membrane],Complex
+JAK2,UniProt:O60674 JAK2,uniprot:O60674,ReferenceGeneProduct,IFNG:IFNGR1:JAK1:IFNGR2:JAK2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNGR1:JAK1:INFGR2:JAK2 [plasma membrane],Complex
+IFNGR1,UniProt:P15260 IFNGR1,uniprot:P15260,ReferenceGeneProduct,IFNGR1:JAK1:INFGR2:JAK2 [plasma membrane],Complex
+IFNGR2,UniProt:P38484 IFNGR2,uniprot:P38484,ReferenceGeneProduct,IFNGR1:JAK1:INFGR2:JAK2 [plasma membrane],Complex
+JAK2,UniProt:O60674 JAK2,uniprot:O60674,ReferenceGeneProduct,IFNGR1:JAK1:INFGR2:JAK2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,"IFNGR1:JAK1:INFGR2:JAK2:JAK1,2 inhibitors [plasma membrane]",Complex
+IFNGR1,UniProt:P15260 IFNGR1,uniprot:P15260,ReferenceGeneProduct,"IFNGR1:JAK1:INFGR2:JAK2:JAK1,2 inhibitors [plasma membrane]",Complex
+IFNGR2,UniProt:P38484 IFNGR2,uniprot:P38484,ReferenceGeneProduct,"IFNGR1:JAK1:INFGR2:JAK2:JAK1,2 inhibitors [plasma membrane]",Complex
+JAK2,UniProt:O60674 JAK2,uniprot:O60674,ReferenceGeneProduct,"IFNGR1:JAK1:INFGR2:JAK2:JAK1,2 inhibitors [plasma membrane]",Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,IFNG-activated factor (GAF) [cytosol],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,p-STAT1 homodimer [nucleoplasm],Complex
+YBX1,UniProt:P67809 YBX1,uniprot:P67809,ReferenceGeneProduct,"p-S32,S36-YBX1 [cytosol]",EntityWithAccessionedSequence
+YBX1,UniProt:P67809 YBX1,uniprot:P67809,ReferenceGeneProduct,"p-S32,S36-YBX1 [nucleoplasm]",EntityWithAccessionedSequence
+IFNG,UniProt:P01579 IFNG,uniprot:P01579,ReferenceGeneProduct,STAT1 bound to p-IFNGR1 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,STAT1 bound to p-IFNGR1 [plasma membrane],Complex
+IFNGR1,UniProt:P15260 IFNGR1,uniprot:P15260,ReferenceGeneProduct,STAT1 bound to p-IFNGR1 [plasma membrane],Complex
+JAK2,UniProt:O60674 JAK2,uniprot:O60674,ReferenceGeneProduct,STAT1 bound to p-IFNGR1 [plasma membrane],Complex
+IFNGR2,UniProt:P38484 IFNGR2,uniprot:P38484,ReferenceGeneProduct,STAT1 bound to p-IFNGR1 [plasma membrane],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,STAT1 bound to p-IFNGR1 [plasma membrane],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,GAF bound to GAS promoter element [nucleoplasm],Complex
+PTPN6,UniProt:P29350 PTPN6,uniprot:P29350,ReferenceGeneProduct,PTPs-SHP1/2/PTP1B [cytosol],DefinedSet
+PTPN11,UniProt:Q06124 PTPN11,uniprot:Q06124,ReferenceGeneProduct,PTPs-SHP1/2/PTP1B [cytosol],DefinedSet
+PTPN1,UniProt:P18031 PTPN1,uniprot:P18031,ReferenceGeneProduct,PTPs-SHP1/2/PTP1B [cytosol],DefinedSet
+PTPN2,UniProt:P17706-2 PTPN2,uniprot:P17706-2,ReferenceIsoform,PTPN2-1 [nucleoplasm],EntityWithAccessionedSequence
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,STAT1-1 [nucleoplasm],EntityWithAccessionedSequence
+SOCS1,UniProt:O15524 SOCS1,uniprot:O15524,ReferenceGeneProduct,SOCS-1 and SOCS-3 [cytosol],DefinedSet
+SOCS3,UniProt:O14543 SOCS3,uniprot:O14543,ReferenceGeneProduct,SOCS-1 and SOCS-3 [cytosol],DefinedSet
+SUMO1,UniProt:P63165 SUMO1,uniprot:P63165,ReferenceGeneProduct,SUMO1 [nucleoplasm],EntityWithAccessionedSequence
+PIAS1,UniProt:O75925 PIAS1,uniprot:O75925,ReferenceGeneProduct,PIAS1 [nucleoplasm],EntityWithAccessionedSequence
+SUMO1,UniProt:P63165 SUMO1,uniprot:P63165,ReferenceGeneProduct,p-STAT1 dimer:PIAS:SUMO1 [nucleoplasm],Complex
+PIAS1,UniProt:O75925 PIAS1,uniprot:O75925,ReferenceGeneProduct,p-STAT1 dimer:PIAS:SUMO1 [nucleoplasm],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,p-STAT1 dimer:PIAS:SUMO1 [nucleoplasm],Complex
+IFNG,UniProt:P01579 IFNG,uniprot:P01579,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+IFNGR1,UniProt:P15260 IFNGR1,uniprot:P15260,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+JAK2,UniProt:O60674 JAK2,uniprot:O60674,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+IFNGR2,UniProt:P38484 IFNGR2,uniprot:P38484,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2 [plasma membrane],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,STAT1-1 [cytosol],EntityWithAccessionedSequence
+GBP6,UniProt:Q6ZN66 GBP6,uniprot:Q6ZN66,ReferenceGeneProduct,GBP [cytosol],CandidateSet
+GBP5,UniProt:Q96PP8 GBP5,uniprot:Q96PP8,ReferenceGeneProduct,GBP [cytosol],CandidateSet
+GBP4,UniProt:Q96PP9 GBP4,uniprot:Q96PP9,ReferenceGeneProduct,GBP [cytosol],CandidateSet
+GBP7,UniProt:Q8N8V2 GBP7,uniprot:Q8N8V2,ReferenceGeneProduct,GBP [cytosol],CandidateSet
+GBP3,UniProt:Q9H0R5 GBP3,uniprot:Q9H0R5,ReferenceGeneProduct,GBP [cytosol],CandidateSet
+GBP2,UniProt:P32456 GBP2,uniprot:P32456,ReferenceGeneProduct,GBP [cytosol],CandidateSet
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,GBP [cytosol],CandidateSet
+IRF4,UniProt:Q15306 IRF4,uniprot:Q15306,ReferenceGeneProduct,IRF 1-9 [cytosol],DefinedSet
+IRF9,UniProt:Q00978 IRF9,uniprot:Q00978,ReferenceGeneProduct,IRF 1-9 [cytosol],DefinedSet
+IRF5,UniProt:Q13568 IRF5,uniprot:Q13568,ReferenceGeneProduct,IRF 1-9 [cytosol],DefinedSet
+IRF1,UniProt:P10914 IRF1,uniprot:P10914,ReferenceGeneProduct,IRF 1-9 [cytosol],DefinedSet
+IRF3,UniProt:Q14653 IRF3,uniprot:Q14653,ReferenceGeneProduct,IRF 1-9 [cytosol],DefinedSet
+IRF6,UniProt:O14896 IRF6,uniprot:O14896,ReferenceGeneProduct,IRF 1-9 [cytosol],DefinedSet
+IRF8,UniProt:Q02556 IRF8,uniprot:Q02556,ReferenceGeneProduct,IRF 1-9 [cytosol],DefinedSet
+IRF2,UniProt:P14316 IRF2,uniprot:P14316,ReferenceGeneProduct,IRF 1-9 [cytosol],DefinedSet
+IRF7,UniProt:Q92985 IRF7,uniprot:Q92985,ReferenceGeneProduct,IRF 1-9 [cytosol],DefinedSet
+FCGR1A,UniProt:P12314 FCGR1A,uniprot:P12314,ReferenceGeneProduct,FCGRA [plasma membrane],DefinedSet
+FCGR1BP,UniProt:Q92637 FCGR1BP,uniprot:Q92637,ReferenceGeneProduct,FCGRA [plasma membrane],DefinedSet
+HLA-A,UniProt:P04439 HLA-A,uniprot:P04439,ReferenceGeneProduct,monoglucosylated Class I MHC heavy chain (MHC HC) [lumenal side of endoplasmic reticulum membrane],DefinedSet
+HLA-H,UniProt:P01893 HLA-H,uniprot:P01893,ReferenceGeneProduct,monoglucosylated Class I MHC heavy chain (MHC HC) [lumenal side of endoplasmic reticulum membrane],DefinedSet
+HLA-G,UniProt:P17693 HLA-G,uniprot:P17693,ReferenceGeneProduct,monoglucosylated Class I MHC heavy chain (MHC HC) [lumenal side of endoplasmic reticulum membrane],DefinedSet
+HLA-F,UniProt:P30511 HLA-F,uniprot:P30511,ReferenceGeneProduct,monoglucosylated Class I MHC heavy chain (MHC HC) [lumenal side of endoplasmic reticulum membrane],DefinedSet
+HLA-C,UniProt:P10321 HLA-C,uniprot:P10321,ReferenceGeneProduct,monoglucosylated Class I MHC heavy chain (MHC HC) [lumenal side of endoplasmic reticulum membrane],DefinedSet
+HLA-E,UniProt:P13747 HLA-E,uniprot:P13747,ReferenceGeneProduct,monoglucosylated Class I MHC heavy chain (MHC HC) [lumenal side of endoplasmic reticulum membrane],DefinedSet
+HLA-B,UniProt:P01889 HLA-B,uniprot:P01889,ReferenceGeneProduct,monoglucosylated Class I MHC heavy chain (MHC HC) [lumenal side of endoplasmic reticulum membrane],DefinedSet
+HLA-DPA1,UniProt:P20036 HLA-DPA1,uniprot:P20036,ReferenceGeneProduct,MHC class II alpha/beta dimer [plasma membrane],Complex
+HLA-DQA1,UniProt:P01909 HLA-DQA1,uniprot:P01909,ReferenceGeneProduct,MHC class II alpha/beta dimer [plasma membrane],Complex
+HLA-DRA,UniProt:P01903 HLA-DRA,uniprot:P01903,ReferenceGeneProduct,MHC class II alpha/beta dimer [plasma membrane],Complex
+HLA-DQA2,UniProt:P01906 HLA-DQA2,uniprot:P01906,ReferenceGeneProduct,MHC class II alpha/beta dimer [plasma membrane],Complex
+HLA-DQB2,UniProt:P05538 HLA-DQB2,uniprot:P05538,ReferenceGeneProduct,MHC class II alpha/beta dimer [plasma membrane],Complex
+HLA-DPB1,UniProt:P04440 HLA-DPB1,uniprot:P04440,ReferenceGeneProduct,MHC class II alpha/beta dimer [plasma membrane],Complex
+HLA-DQB1,UniProt:P01920 HLA-DQB1,uniprot:P01920,ReferenceGeneProduct,MHC class II alpha/beta dimer [plasma membrane],Complex
+HLA-DRB5,UniProt:Q30154 HLA-DRB5,uniprot:Q30154,ReferenceGeneProduct,MHC class II alpha/beta dimer [plasma membrane],Complex
+HLA-DRB3,UniProt:P79483 HLA-DRB3,uniprot:P79483,ReferenceGeneProduct,MHC class II alpha/beta dimer [plasma membrane],Complex
+HLA-DRB4,UniProt:P13762 HLA-DRB4,uniprot:P13762,ReferenceGeneProduct,MHC class II alpha/beta dimer [plasma membrane],Complex
+HLA-DRB1,UniProt:P01911 HLA-DRB1,uniprot:P01911,ReferenceGeneProduct,MHC class II alpha/beta dimer [plasma membrane],Complex
+ICAM1,UniProt:P05362 ICAM1,uniprot:P05362,ReferenceGeneProduct,IFN-gamma upregulated CAMs [plasma membrane],DefinedSet
+CD44,UniProt:P16070 CD44,uniprot:P16070,ReferenceGeneProduct,IFN-gamma upregulated CAMs [plasma membrane],DefinedSet
+VCAM1,UniProt:P19320 VCAM1,uniprot:P19320,ReferenceGeneProduct,IFN-gamma upregulated CAMs [plasma membrane],DefinedSet
+NCAM1,UniProt:P13591 NCAM1,uniprot:P13591,ReferenceGeneProduct,IFN-gamma upregulated CAMs [plasma membrane],DefinedSet
+TRIM10,UniProt:Q9UDY6 TRIM10,uniprot:Q9UDY6,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM29,UniProt:Q14134 TRIM29,uniprot:Q14134,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM46,UniProt:Q7Z4K8 TRIM46,uniprot:Q7Z4K8,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM35,UniProt:Q9UPQ4 TRIM35,uniprot:Q9UPQ4,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM48,UniProt:Q8IWZ4 TRIM48,uniprot:Q8IWZ4,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM2,UniProt:Q9C040 TRIM2,uniprot:Q9C040,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM14,UniProt:Q14142 TRIM14,uniprot:Q14142,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM45,UniProt:Q9H8W5 TRIM45,uniprot:Q9H8W5,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM17,UniProt:Q9Y577 TRIM17,uniprot:Q9Y577,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM3,UniProt:O75382 TRIM3,uniprot:O75382,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM6,UniProt:Q9C030 TRIM6,uniprot:Q9C030,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM62,UniProt:Q9BVG3 TRIM62,uniprot:Q9BVG3,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM5,UniProt:Q9C035 TRIM5,uniprot:Q9C035,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM25,UniProt:Q14258 TRIM25,uniprot:Q14258,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM68,UniProt:Q6AZZ1 TRIM68,uniprot:Q6AZZ1,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM31,UniProt:Q9BZY9 TRIM31,uniprot:Q9BZY9,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM38,UniProt:O00635 TRIM38,uniprot:O00635,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM26,UniProt:Q12899 TRIM26,uniprot:Q12899,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+PML,UniProt:P29590 PML,uniprot:P29590,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+MID1,UniProt:O15344 MID1,uniprot:O15344,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM22,UniProt:Q8IYM9 TRIM22,uniprot:Q8IYM9,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM34,UniProt:Q9BYJ4 TRIM34,uniprot:Q9BYJ4,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM8,UniProt:Q9BZR9 TRIM8,uniprot:Q9BZR9,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+TRIM21,UniProt:P19474 TRIM21,uniprot:P19474,ReferenceGeneProduct,IFNG induced TRIMs [cytosol],CandidateSet
+MT2A,UniProt:P02795 MT2A,uniprot:P02795,ReferenceGeneProduct,MT2A [cytosol],EntityWithAccessionedSequence
+PML,UniProt:P29590 PML,uniprot:P29590,ReferenceGeneProduct,PML [nucleoplasm],EntityWithAccessionedSequence
+SP100,UniProt:P23497 SP100,uniprot:P23497,ReferenceGeneProduct,SP100 [nucleoplasm],EntityWithAccessionedSequence
+PTAFR,UniProt:P25105 PTAFR,uniprot:P25105,ReferenceGeneProduct,PTAFR [plasma membrane],EntityWithAccessionedSequence
+IFI30,UniProt:P13284 IFI30,uniprot:P13284,ReferenceGeneProduct,IFI30 [lysosomal lumen],EntityWithAccessionedSequence
+B2M,UniProt:P61769 B2M,uniprot:P61769,ReferenceGeneProduct,B2M(21-119) [endoplasmic reticulum lumen],EntityWithAccessionedSequence
+CIITA,UniProt:P33076 CIITA,uniprot:P33076,ReferenceGeneProduct,CIITA [nucleoplasm],EntityWithAccessionedSequence
+OAS1,UniProt:P00973 OAS1,uniprot:P00973,ReferenceGeneProduct,OAS proteins [cytosol],DefinedSet
+OASL,UniProt:Q15646 OASL,uniprot:Q15646,ReferenceGeneProduct,OAS proteins [cytosol],DefinedSet
+OAS2,UniProt:P29728 OAS2,uniprot:P29728,ReferenceGeneProduct,OAS proteins [cytosol],DefinedSet
+OAS3,UniProt:Q9Y6K5 OAS3,uniprot:Q9Y6K5,ReferenceGeneProduct,OAS proteins [cytosol],DefinedSet
+IFNG,UniProt:P01579 IFNG,uniprot:P01579,ReferenceGeneProduct,IFNG dimer [extracellular region],Complex
+MAPK3,UniProt:P27361 MAPK3,uniprot:P27361,ReferenceGeneProduct,"p-T,Y MAPK dimers [cytosol]",DefinedSet
+MAPK1,UniProt:P28482 MAPK1,uniprot:P28482,ReferenceGeneProduct,"p-T,Y MAPK dimers [cytosol]",DefinedSet
+YBX1,UniProt:P67809 YBX1,uniprot:P67809,ReferenceGeneProduct,YBX1 [cytosol],EntityWithAccessionedSequence
+SMAD7,UniProt:O15105 SMAD7,uniprot:O15105,ReferenceGeneProduct,SMAD7 [nucleoplasm],EntityWithAccessionedSequence
+IFNG,UniProt:P01579 IFNG,uniprot:P01579,ReferenceGeneProduct,IFNG dimer:IFNG inhibitors [extracellular region],Complex
+IFNG,UniProt:P01579 IFNG,uniprot:P01579,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2:p-Y-RAF1 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2:p-Y-RAF1 [plasma membrane],Complex
+IFNGR1,UniProt:P15260 IFNGR1,uniprot:P15260,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2:p-Y-RAF1 [plasma membrane],Complex
+JAK2,UniProt:O60674 JAK2,uniprot:O60674,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2:p-Y-RAF1 [plasma membrane],Complex
+IFNGR2,UniProt:P38484 IFNGR2,uniprot:P38484,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2:p-Y-RAF1 [plasma membrane],Complex
+RAF1,UniProt:P04049 RAF1,uniprot:P04049,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2:p-Y-RAF1 [plasma membrane],Complex
+MAPK3,UniProt:P27361 MAPK3,uniprot:P27361,ReferenceGeneProduct,MAPKs [cytosol],DefinedSet
+MAPK1,UniProt:P28482 MAPK1,uniprot:P28482,ReferenceGeneProduct,MAPKs [cytosol],DefinedSet
+RAF1,UniProt:P04049 RAF1,uniprot:P04049,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2:RAF1 [plasma membrane],Complex
+IFNG,UniProt:P01579 IFNG,uniprot:P01579,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2:RAF1 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2:RAF1 [plasma membrane],Complex
+IFNGR1,UniProt:P15260 IFNGR1,uniprot:P15260,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2:RAF1 [plasma membrane],Complex
+JAK2,UniProt:O60674 JAK2,uniprot:O60674,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2:RAF1 [plasma membrane],Complex
+IFNGR2,UniProt:P38484 IFNGR2,uniprot:P38484,ReferenceGeneProduct,IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2:RAF1 [plasma membrane],Complex
+RAF1,UniProt:P04049 RAF1,uniprot:P04049,ReferenceGeneProduct,RAF1 [cytosol],EntityWithAccessionedSequence
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,ISGF3 [nucleoplasm],Complex
+STAT1,UniProt:P42224-2 STAT1,uniprot:P42224-2,ReferenceIsoform,ISGF3 [nucleoplasm],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,ISGF3 [nucleoplasm],Complex
+IRF9,UniProt:Q00978 IRF9,uniprot:Q00978,ReferenceGeneProduct,ISGF3 [nucleoplasm],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,ISGF3 bound to ISRE promotor elements [nucleoplasm],Complex
+STAT1,UniProt:P42224-2 STAT1,uniprot:P42224-2,ReferenceIsoform,ISGF3 bound to ISRE promotor elements [nucleoplasm],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,ISGF3 bound to ISRE promotor elements [nucleoplasm],Complex
+IRF9,UniProt:Q00978 IRF9,uniprot:Q00978,ReferenceGeneProduct,ISGF3 bound to ISRE promotor elements [nucleoplasm],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,IFNAR2-2 [plasma membrane],EntityWithAccessionedSequence
+USP18,UniProt:Q9UMW8 USP18,uniprot:Q9UMW8,ReferenceGeneProduct,USP18 [cytosol],EntityWithAccessionedSequence
+USP18,UniProt:Q9UMW8 USP18,uniprot:Q9UMW8,ReferenceGeneProduct,IFNAR2c:UBP43 [plasma membrane],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,IFNAR2c:UBP43 [plasma membrane],Complex
+PTPN1,UniProt:P18031 PTPN1,uniprot:P18031,ReferenceGeneProduct,PTPN1 [cytosol],EntityWithAccessionedSequence
+IFNA16,UniProt:P05015 IFNA16,uniprot:P05015,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA1,UniProt:P0DY56 IFNA1,uniprot:P0DY56,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA21,UniProt:P01568 IFNA21,uniprot:P01568,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA4,UniProt:P05014 IFNA4,uniprot:P05014,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA7,UniProt:P01567 IFNA7,uniprot:P01567,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA8,UniProt:P32881 IFNA8,uniprot:P32881,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA10,UniProt:P01566 IFNA10,uniprot:P01566,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA5,UniProt:P01569 IFNA5,uniprot:P01569,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA2,UniProt:P01563 IFNA2,uniprot:P01563,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA14,UniProt:P01570 IFNA14,uniprot:P01570,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA17,UniProt:P01571 IFNA17,uniprot:P01571,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA6,UniProt:P05013 IFNA6,uniprot:P05013,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNB1,UniProt:P01574 IFNB1,uniprot:P01574,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNAR1,UniProt:P17181 IFNAR1,uniprot:P17181,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+TYK2,UniProt:P29597 TYK2,uniprot:P29597,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA16,UniProt:P05015 IFNA16,uniprot:P05015,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA1,UniProt:P0DY56 IFNA1,uniprot:P0DY56,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA21,UniProt:P01568 IFNA21,uniprot:P01568,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA4,UniProt:P05014 IFNA4,uniprot:P05014,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA7,UniProt:P01567 IFNA7,uniprot:P01567,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA8,UniProt:P32881 IFNA8,uniprot:P32881,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA10,UniProt:P01566 IFNA10,uniprot:P01566,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA5,UniProt:P01569 IFNA5,uniprot:P01569,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA2,UniProt:P01563 IFNA2,uniprot:P01563,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA14,UniProt:P01570 IFNA14,uniprot:P01570,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA17,UniProt:P01571 IFNA17,uniprot:P01571,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA6,UniProt:P05013 IFNA6,uniprot:P05013,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNB1,UniProt:P01574 IFNB1,uniprot:P01574,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+TYK2,UniProt:P29597 TYK2,uniprot:P29597,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNAR1,UniProt:P17181 IFNAR1,uniprot:P17181,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+PTPN11,UniProt:Q06124 PTPN11,uniprot:Q06124,ReferenceGeneProduct,PTPN11 [cytosol],EntityWithAccessionedSequence
+IFNA16,UniProt:P05015 IFNA16,uniprot:P05015,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNA1,UniProt:P0DY56 IFNA1,uniprot:P0DY56,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNA21,UniProt:P01568 IFNA21,uniprot:P01568,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNA4,UniProt:P05014 IFNA4,uniprot:P05014,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNA7,UniProt:P01567 IFNA7,uniprot:P01567,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNA8,UniProt:P32881 IFNA8,uniprot:P32881,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNA10,UniProt:P01566 IFNA10,uniprot:P01566,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNA5,UniProt:P01569 IFNA5,uniprot:P01569,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNA2,UniProt:P01563 IFNA2,uniprot:P01563,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNA14,UniProt:P01570 IFNA14,uniprot:P01570,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNA17,UniProt:P01571 IFNA17,uniprot:P01571,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNA6,UniProt:P05013 IFNA6,uniprot:P05013,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNB1,UniProt:P01574 IFNB1,uniprot:P01574,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNAR1,UniProt:P17181 IFNAR1,uniprot:P17181,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+STAT1,UniProt:P42224-2 STAT1,uniprot:P42224-2,ReferenceIsoform,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+TYK2,UniProt:P29597 TYK2,uniprot:P29597,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1 [plasma membrane],Complex
+IFNA16,UniProt:P05015 IFNA16,uniprot:P05015,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNA1,UniProt:P0DY56 IFNA1,uniprot:P0DY56,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNA21,UniProt:P01568 IFNA21,uniprot:P01568,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNA4,UniProt:P05014 IFNA4,uniprot:P05014,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNA7,UniProt:P01567 IFNA7,uniprot:P01567,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNA8,UniProt:P32881 IFNA8,uniprot:P32881,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNA10,UniProt:P01566 IFNA10,uniprot:P01566,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNA5,UniProt:P01569 IFNA5,uniprot:P01569,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNA2,UniProt:P01563 IFNA2,uniprot:P01563,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNA14,UniProt:P01570 IFNA14,uniprot:P01570,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNA17,UniProt:P01571 IFNA17,uniprot:P01571,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNA6,UniProt:P05013 IFNA6,uniprot:P05013,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNB1,UniProt:P01574 IFNB1,uniprot:P01574,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNAR1,UniProt:P17181 IFNAR1,uniprot:P17181,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+STAT1,UniProt:P42224-2 STAT1,uniprot:P42224-2,ReferenceIsoform,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+TYK2,UniProt:P29597 TYK2,uniprot:P29597,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1 [plasma membrane],Complex
+TYK2,UniProt:P29597 TYK2,uniprot:P29597,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNAR1,UniProt:P17181 IFNAR1,uniprot:P17181,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA16,UniProt:P05015 IFNA16,uniprot:P05015,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA1,UniProt:P0DY56 IFNA1,uniprot:P0DY56,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA21,UniProt:P01568 IFNA21,uniprot:P01568,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA4,UniProt:P05014 IFNA4,uniprot:P05014,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA7,UniProt:P01567 IFNA7,uniprot:P01567,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA8,UniProt:P32881 IFNA8,uniprot:P32881,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA10,UniProt:P01566 IFNA10,uniprot:P01566,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA5,UniProt:P01569 IFNA5,uniprot:P01569,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA2,UniProt:P01563 IFNA2,uniprot:P01563,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA14,UniProt:P01570 IFNA14,uniprot:P01570,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA17,UniProt:P01571 IFNA17,uniprot:P01571,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA6,UniProt:P05013 IFNA6,uniprot:P05013,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNB1,UniProt:P01574 IFNB1,uniprot:P01574,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2 [plasma membrane],Complex
+IFNA16,UniProt:P05015 IFNA16,uniprot:P05015,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNA1,UniProt:P0DY56 IFNA1,uniprot:P0DY56,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNA21,UniProt:P01568 IFNA21,uniprot:P01568,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNA4,UniProt:P05014 IFNA4,uniprot:P05014,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNA7,UniProt:P01567 IFNA7,uniprot:P01567,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNA8,UniProt:P32881 IFNA8,uniprot:P32881,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNA10,UniProt:P01566 IFNA10,uniprot:P01566,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNA5,UniProt:P01569 IFNA5,uniprot:P01569,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNA2,UniProt:P01563 IFNA2,uniprot:P01563,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNA14,UniProt:P01570 IFNA14,uniprot:P01570,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNA17,UniProt:P01571 IFNA17,uniprot:P01571,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNA6,UniProt:P05013 IFNA6,uniprot:P05013,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNB1,UniProt:P01574 IFNB1,uniprot:P01574,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+IFNAR1,UniProt:P17181 IFNAR1,uniprot:P17181,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+SOCS1,UniProt:O15524 SOCS1,uniprot:O15524,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+SOCS3,UniProt:O14543 SOCS3,uniprot:O14543,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+TYK2,UniProt:P29597 TYK2,uniprot:P29597,ReferenceGeneProduct,p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2 [plasma membrane],Complex
+KPNA1,UniProt:P52294 KPNA1,uniprot:P52294,ReferenceGeneProduct,KPNA1 [cytosol],EntityWithAccessionedSequence
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,"p-STAT1 dimer, ISGF3 [cytosol]",DefinedSet
+IRF9,UniProt:Q00978 IRF9,uniprot:Q00978,ReferenceGeneProduct,"p-STAT1 dimer, ISGF3 [cytosol]",DefinedSet
+STAT1,UniProt:P42224-2 STAT1,uniprot:P42224-2,ReferenceIsoform,"p-STAT1 dimer, ISGF3 [cytosol]",DefinedSet
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,"p-STAT1 dimer, ISGF3 [cytosol]",DefinedSet
+KPNA1,UniProt:P52294 KPNA1,uniprot:P52294,ReferenceGeneProduct,p-STAT1 dimer:KPNA1 [cytosol],DefinedSet
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,p-STAT1 dimer:KPNA1 [cytosol],DefinedSet
+IRF9,UniProt:Q00978 IRF9,uniprot:Q00978,ReferenceGeneProduct,p-STAT1 dimer:KPNA1 [cytosol],DefinedSet
+STAT1,UniProt:P42224-2 STAT1,uniprot:P42224-2,ReferenceIsoform,p-STAT1 dimer:KPNA1 [cytosol],DefinedSet
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,p-STAT1 dimer:KPNA1 [cytosol],DefinedSet
+IFNAR1,UniProt:P17181 IFNAR1,uniprot:P17181,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+TYK2,UniProt:P29597 TYK2,uniprot:P29597,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNA16,UniProt:P05015 IFNA16,uniprot:P05015,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNA1,UniProt:P0DY56 IFNA1,uniprot:P0DY56,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNA21,UniProt:P01568 IFNA21,uniprot:P01568,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNA4,UniProt:P05014 IFNA4,uniprot:P05014,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNA7,UniProt:P01567 IFNA7,uniprot:P01567,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNA8,UniProt:P32881 IFNA8,uniprot:P32881,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNA10,UniProt:P01566 IFNA10,uniprot:P01566,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNA5,UniProt:P01569 IFNA5,uniprot:P01569,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNA2,UniProt:P01563 IFNA2,uniprot:P01563,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNA14,UniProt:P01570 IFNA14,uniprot:P01570,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNA17,UniProt:P01571 IFNA17,uniprot:P01571,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNA6,UniProt:P05013 IFNA6,uniprot:P05013,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNB1,UniProt:P01574 IFNB1,uniprot:P01574,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2 [plasma membrane],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,p-Y701-STAT1-1 dimer [cytosol],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,STAT2 [cytosol],EntityWithAccessionedSequence
+IFNA16,UniProt:P05015 IFNA16,uniprot:P05015,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA1,UniProt:P0DY56 IFNA1,uniprot:P0DY56,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA21,UniProt:P01568 IFNA21,uniprot:P01568,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA4,UniProt:P05014 IFNA4,uniprot:P05014,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA7,UniProt:P01567 IFNA7,uniprot:P01567,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA8,UniProt:P32881 IFNA8,uniprot:P32881,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA10,UniProt:P01566 IFNA10,uniprot:P01566,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA5,UniProt:P01569 IFNA5,uniprot:P01569,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA2,UniProt:P01563 IFNA2,uniprot:P01563,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA14,UniProt:P01570 IFNA14,uniprot:P01570,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA17,UniProt:P01571 IFNA17,uniprot:P01571,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA6,UniProt:P05013 IFNA6,uniprot:P05013,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNB1,UniProt:P01574 IFNB1,uniprot:P01574,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNAR1,UniProt:P17181 IFNAR1,uniprot:P17181,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+TYK2,UniProt:P29597 TYK2,uniprot:P29597,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2 [plasma membrane],Complex
+IFNA16,UniProt:P05015 IFNA16,uniprot:P05015,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNA1,UniProt:P0DY56 IFNA1,uniprot:P0DY56,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNA21,UniProt:P01568 IFNA21,uniprot:P01568,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNA4,UniProt:P05014 IFNA4,uniprot:P05014,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNA7,UniProt:P01567 IFNA7,uniprot:P01567,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNA8,UniProt:P32881 IFNA8,uniprot:P32881,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNA10,UniProt:P01566 IFNA10,uniprot:P01566,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNA5,UniProt:P01569 IFNA5,uniprot:P01569,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNA2,UniProt:P01563 IFNA2,uniprot:P01563,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNA14,UniProt:P01570 IFNA14,uniprot:P01570,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNA17,UniProt:P01571 IFNA17,uniprot:P01571,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNA6,UniProt:P05013 IFNA6,uniprot:P05013,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNB1,UniProt:P01574 IFNB1,uniprot:P01574,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNAR1,UniProt:P17181 IFNAR1,uniprot:P17181,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+TYK2,UniProt:P29597 TYK2,uniprot:P29597,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2 [plasma membrane],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,multiubiquitinated STAT2 [cytosol],Complex
+UBC,UniProt:P0CG48 UBC,uniprot:P0CG48,ReferenceGeneProduct,multiubiquitinated STAT2 [cytosol],Complex
+UBB,UniProt:P0CG47 UBB,uniprot:P0CG47,ReferenceGeneProduct,multiubiquitinated STAT2 [cytosol],Complex
+UBA52,UniProt:P62987 UBA52,uniprot:P62987,ReferenceGeneProduct,multiubiquitinated STAT2 [cytosol],Complex
+RPS27A,UniProt:P62979 RPS27A,uniprot:P62979,ReferenceGeneProduct,multiubiquitinated STAT2 [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,EIF2AK2 [cytosol],EntityWithAccessionedSequence
+ISG20,UniProt:Q96AZ6 ISG20,uniprot:Q96AZ6,ReferenceGeneProduct,ISG20 [nucleoplasm],EntityWithAccessionedSequence
+GBP2,UniProt:P32456 GBP2,uniprot:P32456,ReferenceGeneProduct,GBP2 [cytosol],EntityWithAccessionedSequence
+IFIT2,UniProt:P09913 IFIT2,uniprot:P09913,ReferenceGeneProduct,IFIT2 [cytosol],EntityWithAccessionedSequence
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,IFIT1 [cytosol],EntityWithAccessionedSequence
+ADAR,UniProt:P55265 ADAR,uniprot:P55265,ReferenceGeneProduct,ADAR [nucleoplasm],EntityWithAccessionedSequence
+IFI27,UniProt:P40305 IFI27,uniprot:P40305,ReferenceGeneProduct,IFI27 [mitochondrial outer membrane],EntityWithAccessionedSequence
+IFIT3,UniProt:O14879 IFIT3,uniprot:O14879,ReferenceGeneProduct,IFIT3 [cytosol],EntityWithAccessionedSequence
+IFIT5,UniProt:Q13325 IFIT5,uniprot:Q13325,ReferenceGeneProduct,IFIT5 [cytosol],EntityWithAccessionedSequence
+IFI35,UniProt:P80217 IFI35,uniprot:P80217,ReferenceGeneProduct,IFI35 [cytosol],EntityWithAccessionedSequence
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISG15 [cytosol],EntityWithAccessionedSequence
+IFITM1,UniProt:P13164 IFITM1,uniprot:P13164,ReferenceGeneProduct,IFITM1 [plasma membrane],EntityWithAccessionedSequence
+EGR1,UniProt:P18146 EGR1,uniprot:P18146,ReferenceGeneProduct,EGR1 [nucleoplasm],EntityWithAccessionedSequence
+SAMHD1,UniProt:Q9Y3Z3 SAMHD1,uniprot:Q9Y3Z3,ReferenceGeneProduct,SAMHD1 [nucleoplasm],EntityWithAccessionedSequence
+RSAD2,UniProt:Q8WXG1 RSAD2,uniprot:Q8WXG1,ReferenceGeneProduct,RSAD2 [endoplasmic reticulum membrane],EntityWithAccessionedSequence
+BST2,UniProt:Q10589 BST2,uniprot:Q10589,ReferenceGeneProduct,BST2 [plasma membrane],EntityWithAccessionedSequence
+IFI6,UniProt:P09912 IFI6,uniprot:P09912,ReferenceGeneProduct,IFI6 [plasma membrane],EntityWithAccessionedSequence
+XAF1,UniProt:Q6GPH4 XAF1,uniprot:Q6GPH4,ReferenceGeneProduct,XAF1 [cytosol],EntityWithAccessionedSequence
+IFITM2,UniProt:Q01629 IFITM2,uniprot:Q01629,ReferenceGeneProduct,IFITM2 [plasma membrane],EntityWithAccessionedSequence
+RNASEL,UniProt:Q05823 RNASEL,uniprot:Q05823,ReferenceGeneProduct,RNASEL [cytosol],EntityWithAccessionedSequence
+IP6K2,UniProt:Q9UHH9 IP6K2,uniprot:Q9UHH9,ReferenceGeneProduct,IP6K2 [nucleoplasm],EntityWithAccessionedSequence
+IFITM3,UniProt:Q01628 IFITM3,uniprot:Q01628,ReferenceGeneProduct,IFITM3 [plasma membrane],EntityWithAccessionedSequence
+MX2,UniProt:P20592 MX2,uniprot:P20592,ReferenceGeneProduct,Mx GTPases [cytosol],DefinedSet
+MX1,UniProt:P20591 MX1,uniprot:P20591,ReferenceGeneProduct,Mx GTPases [cytosol],DefinedSet
+PSMB8,UniProt:P28062 PSMB8,uniprot:P28062,ReferenceGeneProduct,PSMB8 [nucleoplasm],EntityWithAccessionedSequence
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,p-STAT2:p-STAT1 [cytosol],Complex
+STAT1,UniProt:P42224-2 STAT1,uniprot:P42224-2,ReferenceIsoform,p-STAT2:p-STAT1 [cytosol],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,p-STAT2:p-STAT1 [cytosol],Complex
+IFNA16,UniProt:P05015 IFNA16,uniprot:P05015,ReferenceGeneProduct,IFN alpha/beta (IFNA/B) [extracellular region],DefinedSet
+IFNA1,UniProt:P0DY56 IFNA1,uniprot:P0DY56,ReferenceGeneProduct,IFN alpha/beta (IFNA/B) [extracellular region],DefinedSet
+IFNA21,UniProt:P01568 IFNA21,uniprot:P01568,ReferenceGeneProduct,IFN alpha/beta (IFNA/B) [extracellular region],DefinedSet
+IFNA4,UniProt:P05014 IFNA4,uniprot:P05014,ReferenceGeneProduct,IFN alpha/beta (IFNA/B) [extracellular region],DefinedSet
+IFNA7,UniProt:P01567 IFNA7,uniprot:P01567,ReferenceGeneProduct,IFN alpha/beta (IFNA/B) [extracellular region],DefinedSet
+IFNA8,UniProt:P32881 IFNA8,uniprot:P32881,ReferenceGeneProduct,IFN alpha/beta (IFNA/B) [extracellular region],DefinedSet
+IFNA10,UniProt:P01566 IFNA10,uniprot:P01566,ReferenceGeneProduct,IFN alpha/beta (IFNA/B) [extracellular region],DefinedSet
+IFNA5,UniProt:P01569 IFNA5,uniprot:P01569,ReferenceGeneProduct,IFN alpha/beta (IFNA/B) [extracellular region],DefinedSet
+IFNA2,UniProt:P01563 IFNA2,uniprot:P01563,ReferenceGeneProduct,IFN alpha/beta (IFNA/B) [extracellular region],DefinedSet
+IFNA14,UniProt:P01570 IFNA14,uniprot:P01570,ReferenceGeneProduct,IFN alpha/beta (IFNA/B) [extracellular region],DefinedSet
+IFNA17,UniProt:P01571 IFNA17,uniprot:P01571,ReferenceGeneProduct,IFN alpha/beta (IFNA/B) [extracellular region],DefinedSet
+IFNA6,UniProt:P05013 IFNA6,uniprot:P05013,ReferenceGeneProduct,IFN alpha/beta (IFNA/B) [extracellular region],DefinedSet
+IFNB1,UniProt:P01574 IFNB1,uniprot:P01574,ReferenceGeneProduct,IFN alpha/beta (IFNA/B) [extracellular region],DefinedSet
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNA16,UniProt:P05015 IFNA16,uniprot:P05015,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNA1,UniProt:P0DY56 IFNA1,uniprot:P0DY56,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNA21,UniProt:P01568 IFNA21,uniprot:P01568,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNA4,UniProt:P05014 IFNA4,uniprot:P05014,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNA7,UniProt:P01567 IFNA7,uniprot:P01567,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNA8,UniProt:P32881 IFNA8,uniprot:P32881,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNA10,UniProt:P01566 IFNA10,uniprot:P01566,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNA5,UniProt:P01569 IFNA5,uniprot:P01569,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNA2,UniProt:P01563 IFNA2,uniprot:P01563,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNA14,UniProt:P01570 IFNA14,uniprot:P01570,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNA17,UniProt:P01571 IFNA17,uniprot:P01571,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNA6,UniProt:P05013 IFNA6,uniprot:P05013,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNB1,UniProt:P01574 IFNB1,uniprot:P01574,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNA/B:IFNAR2:JAK1:STAT2 [plasma membrane],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,"IFNAR2:JAK1:STAT2:JAK1,2 inhibitors [plasma membrane]",Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,"IFNAR2:JAK1:STAT2:JAK1,2 inhibitors [plasma membrane]",Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,"IFNAR2:JAK1:STAT2:JAK1,2 inhibitors [plasma membrane]",Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,IFNAR2:JAK1:STAT2:type 1 interferon analogs [plasma membrane],Complex
+IFNAR2,UniProt:P48551-2 IFNAR2,uniprot:P48551-2,ReferenceIsoform,IFNAR2:JAK1:STAT2:type 1 interferon analogs [plasma membrane],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,IFNAR2:JAK1:STAT2:type 1 interferon analogs [plasma membrane],Complex
+KPNA1,UniProt:P52294 KPNA1,uniprot:P52294,ReferenceGeneProduct,p-Y701-STAT1:KPNA1:KPNB1 [cytosol],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,p-Y701-STAT1:KPNA1:KPNB1 [cytosol],Complex
+KPNB1,UniProt:Q14974 KPNB1,uniprot:Q14974,ReferenceGeneProduct,p-Y701-STAT1:KPNA1:KPNB1 [cytosol],Complex
+KPNA1,UniProt:P52294 KPNA1,uniprot:P52294,ReferenceGeneProduct,KPNA1 [nucleoplasm],EntityWithAccessionedSequence
+KPNB1,UniProt:Q14974 KPNB1,uniprot:Q14974,ReferenceGeneProduct,KPNB1 [nucleoplasm],EntityWithAccessionedSequence
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,p-Y701-STAT1 dimer [nucleoplasm],Complex
+KPNA1,UniProt:P52294 KPNA1,uniprot:P52294,ReferenceGeneProduct,ISGF3:KPNA1:KPNB1 [cytosol],Complex
+IRF9,UniProt:Q00978 IRF9,uniprot:Q00978,ReferenceGeneProduct,ISGF3:KPNA1:KPNB1 [cytosol],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,ISGF3:KPNA1:KPNB1 [cytosol],Complex
+STAT1,UniProt:P42224-2 STAT1,uniprot:P42224-2,ReferenceIsoform,ISGF3:KPNA1:KPNB1 [cytosol],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,ISGF3:KPNA1:KPNB1 [cytosol],Complex
+KPNB1,UniProt:Q14974 KPNB1,uniprot:Q14974,ReferenceGeneProduct,ISGF3:KPNA1:KPNB1 [cytosol],Complex
+STAT1,UniProt:P42224-2 STAT1,uniprot:P42224-2,ReferenceIsoform,STAT1 [cytosol],DefinedSet
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,STAT1 [cytosol],DefinedSet
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,"STAT1,STAT2:N [cytosol]",Complex
+STAT1,UniProt:P42224 STAT1,uniprot:P42224,ReferenceGeneProduct,"STAT1,STAT2:N [cytosol]",Complex
+N,UniProt:P0DTC9 N,uniprot:P0DTC9,ReferenceGeneProduct,"STAT1,STAT2:N [cytosol]",Complex
+PTPN6,UniProt:P29350 PTPN6,uniprot:P29350,ReferenceGeneProduct,"PTPN6,PTPN11 [cytosol]",DefinedSet
+PTPN11,UniProt:Q06124 PTPN11,uniprot:Q06124,ReferenceGeneProduct,"PTPN6,PTPN11 [cytosol]",DefinedSet
+TYK2,UniProt:P29597 TYK2,uniprot:P29597,ReferenceGeneProduct,IFNAR1:TYK2 [plasma membrane],Complex
+IFNAR1,UniProt:P17181 IFNAR1,uniprot:P17181,ReferenceGeneProduct,IFNAR1:TYK2 [plasma membrane],Complex
+TYK2,UniProt:P29597 TYK2,uniprot:P29597,ReferenceGeneProduct,IFNAR1:TYK2:TYK2 inhibitors [plasma membrane],Complex
+IFNAR1,UniProt:P17181 IFNAR1,uniprot:P17181,ReferenceGeneProduct,IFNAR1:TYK2:TYK2 inhibitors [plasma membrane],Complex
+IRF9,UniProt:Q00978 IRF9,uniprot:Q00978,ReferenceGeneProduct,IRF9 [cytosol],EntityWithAccessionedSequence
+IRF9,UniProt:Q00978 IRF9,uniprot:Q00978,ReferenceGeneProduct,ISGF3 [cytosol],Complex
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,ISGF3 [cytosol],Complex
+STAT1,UniProt:P42224-2 STAT1,uniprot:P42224-2,ReferenceIsoform,ISGF3 [cytosol],Complex
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,ISGF3 [cytosol],Complex
+KPNB1,UniProt:Q14974 KPNB1,uniprot:Q14974,ReferenceGeneProduct,KPNB1 [cytosol],EntityWithAccessionedSequence
+KPNA1,UniProt:P52294 KPNA1,uniprot:P52294,ReferenceGeneProduct,p-STAT1 dimer:KPNA1:KPNB1 [cytosol],DefinedSet
+IRF9,UniProt:Q00978 IRF9,uniprot:Q00978,ReferenceGeneProduct,p-STAT1 dimer:KPNA1:KPNB1 [cytosol],DefinedSet
+STAT1,UniProt:P42224-1 STAT1,uniprot:P42224-1,ReferenceIsoform,p-STAT1 dimer:KPNA1:KPNB1 [cytosol],DefinedSet
+STAT1,UniProt:P42224-2 STAT1,uniprot:P42224-2,ReferenceIsoform,p-STAT1 dimer:KPNA1:KPNB1 [cytosol],DefinedSet
+STAT2,UniProt:P52630 STAT2,uniprot:P52630,ReferenceGeneProduct,p-STAT1 dimer:KPNA1:KPNB1 [cytosol],DefinedSet
+KPNB1,UniProt:Q14974 KPNB1,uniprot:Q14974,ReferenceGeneProduct,p-STAT1 dimer:KPNA1:KPNB1 [cytosol],DefinedSet
+ABCE1,UniProt:P61221 ABCE1,uniprot:P61221,ReferenceGeneProduct,ABCE1 [mitochondrial matrix],EntityWithAccessionedSequence
+RNASEL,UniProt:Q05823 RNASEL,uniprot:Q05823,ReferenceGeneProduct,RNASEL dimer [mitochondrial matrix],Complex
+ABCE1,UniProt:P61221 ABCE1,uniprot:P61221,ReferenceGeneProduct,ABCE1:RNASEL dimer [mitochondrial matrix],Complex
+RNASEL,UniProt:Q05823 RNASEL,uniprot:Q05823,ReferenceGeneProduct,ABCE1:RNASEL dimer [mitochondrial matrix],Complex
+IKBKG,UniProt:Q9Y6K9 IKBKG,uniprot:Q9Y6K9,ReferenceGeneProduct,CHUK:IKBKB:IKBKG [cytosol],Complex
+CHUK,UniProt:O15111 CHUK,uniprot:O15111,ReferenceGeneProduct,CHUK:IKBKB:IKBKG [cytosol],Complex
+IKBKB,UniProt:O14920 IKBKB,uniprot:O14920,ReferenceGeneProduct,CHUK:IKBKB:IKBKG [cytosol],Complex
+FKBP5,UniProt:Q13451 FKBP5,uniprot:Q13451,ReferenceGeneProduct,FKBP5 [cytosol],EntityWithAccessionedSequence
+IKBKB,UniProt:O14920 IKBKB,uniprot:O14920,ReferenceGeneProduct,FKBP5:CHUK:IKBKB:IKBKG [cytosol],Complex
+FKBP5,UniProt:Q13451 FKBP5,uniprot:Q13451,ReferenceGeneProduct,FKBP5:CHUK:IKBKB:IKBKG [cytosol],Complex
+CHUK,UniProt:O15111 CHUK,uniprot:O15111,ReferenceGeneProduct,FKBP5:CHUK:IKBKB:IKBKG [cytosol],Complex
+IKBKG,UniProt:Q9Y6K9 IKBKG,uniprot:Q9Y6K9,ReferenceGeneProduct,FKBP5:CHUK:IKBKB:IKBKG [cytosol],Complex
+FKBP5,UniProt:Q13451 FKBP5,uniprot:Q13451,ReferenceGeneProduct,"IFI44L, IFI44:FKBP5 [cytosol]",Complex
+IFI44L,UniProt:Q53G44 IFI44L,uniprot:Q53G44,ReferenceGeneProduct,"IFI44L, IFI44:FKBP5 [cytosol]",Complex
+IFI44,UniProt:Q8TCB0-1 IFI44,uniprot:Q8TCB0-1,ReferenceIsoform,"IFI44L, IFI44:FKBP5 [cytosol]",Complex
+IFI27,UniProt:P40305 IFI27,uniprot:P40305,ReferenceGeneProduct,"IFI6, IFI27 [mitochondrial outer membrane]",DefinedSet
+IFI6,UniProt:P09912 IFI6,uniprot:P09912,ReferenceGeneProduct,"IFI6, IFI27 [mitochondrial outer membrane]",DefinedSet
+RIGI,UniProt:O95786 RIGI,uniprot:O95786,ReferenceGeneProduct,2x DDX58 ligand:2x DDX58:2xATP [cytosol],Complex
+IFI27,UniProt:P40305 IFI27,uniprot:P40305,ReferenceGeneProduct,"DDX58:DDX58 ligand:ATP:IFI6, IFI27 [mitochondrial outer membrane]",Complex
+IFI6,UniProt:P09912 IFI6,uniprot:P09912,ReferenceGeneProduct,"DDX58:DDX58 ligand:ATP:IFI6, IFI27 [mitochondrial outer membrane]",Complex
+RIGI,UniProt:O95786 RIGI,uniprot:O95786,ReferenceGeneProduct,"DDX58:DDX58 ligand:ATP:IFI6, IFI27 [mitochondrial outer membrane]",Complex
+IFI44L,UniProt:Q53G44 IFI44L,uniprot:Q53G44,ReferenceGeneProduct,"IFI44L, IFI44 [cytosol]",DefinedSet
+IFI44,UniProt:Q8TCB0-1 IFI44,uniprot:Q8TCB0-1,ReferenceIsoform,"IFI44L, IFI44 [cytosol]",DefinedSet
+IFIH1,UniProt:Q9BYX4 IFIH1,uniprot:Q9BYX4,ReferenceGeneProduct,viral dsRNA:IFIH1 [cytosol],Complex
+IFI27,UniProt:P40305 IFI27,uniprot:P40305,ReferenceGeneProduct,viral dsRNA:IFIH1:IFI27 [mitochondrial outer membrane],Complex
+IFIH1,UniProt:Q9BYX4 IFIH1,uniprot:Q9BYX4,ReferenceGeneProduct,viral dsRNA:IFIH1:IFI27 [mitochondrial outer membrane],Complex
+UBE2L6,UniProt:O14933 UBE2L6,uniprot:O14933,ReferenceGeneProduct,UBE2L6:ISG15 E3 ligases [cytosol],Complex
+TRIM25,UniProt:Q14258 TRIM25,uniprot:Q14258,ReferenceGeneProduct,UBE2L6:ISG15 E3 ligases [cytosol],Complex
+ARIH1,UniProt:Q9Y4X5 ARIH1,uniprot:Q9Y4X5,ReferenceGeneProduct,UBE2L6:ISG15 E3 ligases [cytosol],Complex
+HERC5,UniProt:Q9UII4 HERC5,uniprot:Q9UII4,ReferenceGeneProduct,UBE2L6:ISG15 E3 ligases [cytosol],Complex
+RIGI,UniProt:O95786 RIGI,uniprot:O95786,ReferenceGeneProduct,DDX58 [cytosol],EntityWithAccessionedSequence
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISG15:UBA7 [cytosol],Complex
+UBA7,UniProt:P41226 UBA7,uniprot:P41226,ReferenceGeneProduct,ISG15:UBA7 [cytosol],Complex
+UBE2L6,UniProt:O14933 UBE2L6,uniprot:O14933,ReferenceGeneProduct,UBE2L6 [cytosol],EntityWithAccessionedSequence
+TRIM25,UniProt:Q14258 TRIM25,uniprot:Q14258,ReferenceGeneProduct,ISG15 E3 ligases [cytosol],CandidateSet
+ARIH1,UniProt:Q9Y4X5 ARIH1,uniprot:Q9Y4X5,ReferenceGeneProduct,ISG15 E3 ligases [cytosol],CandidateSet
+HERC5,UniProt:Q9UII4 HERC5,uniprot:Q9UII4,ReferenceGeneProduct,ISG15 E3 ligases [cytosol],CandidateSet
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISGylated DDX58 [cytosol],Complex
+RIGI,UniProt:O95786 RIGI,uniprot:O95786,ReferenceGeneProduct,ISGylated DDX58 [cytosol],Complex
+UBA7,UniProt:P41226 UBA7,uniprot:P41226,ReferenceGeneProduct,UBA7 [cytosol],EntityWithAccessionedSequence
+IFI6,UniProt:P09912 IFI6,uniprot:P09912,ReferenceGeneProduct,IFI6 [endoplasmic reticulum membrane],EntityWithAccessionedSequence
+EIF2AK3,UniProt:Q9NZJ5 EIF2AK3,uniprot:Q9NZJ5,ReferenceGeneProduct,"ATF6:HSPA5, EIF2AK3:HSPA5 [endoplasmic reticulum membrane]",DefinedSet
+HSPA5,UniProt:P11021 HSPA5,uniprot:P11021,ReferenceGeneProduct,"ATF6:HSPA5, EIF2AK3:HSPA5 [endoplasmic reticulum membrane]",DefinedSet
+ATF6,UniProt:P18850 ATF6,uniprot:P18850,ReferenceGeneProduct,"ATF6:HSPA5, EIF2AK3:HSPA5 [endoplasmic reticulum membrane]",DefinedSet
+ATF6,UniProt:P18850 ATF6,uniprot:P18850,ReferenceGeneProduct,"IFI6:HSPA5:ATF6, IFI6:HSPA5:EIF2AK3 [endoplasmic reticulum membrane]",DefinedSet
+HSPA5,UniProt:P11021 HSPA5,uniprot:P11021,ReferenceGeneProduct,"IFI6:HSPA5:ATF6, IFI6:HSPA5:EIF2AK3 [endoplasmic reticulum membrane]",DefinedSet
+IFI6,UniProt:P09912 IFI6,uniprot:P09912,ReferenceGeneProduct,"IFI6:HSPA5:ATF6, IFI6:HSPA5:EIF2AK3 [endoplasmic reticulum membrane]",DefinedSet
+EIF2AK3,UniProt:Q9NZJ5 EIF2AK3,uniprot:Q9NZJ5,ReferenceGeneProduct,"IFI6:HSPA5:ATF6, IFI6:HSPA5:EIF2AK3 [endoplasmic reticulum membrane]",DefinedSet
+IRF3,UniProt:Q14653 IRF3,uniprot:Q14653,ReferenceGeneProduct,p-IRF3 dimer:PIN1 [nucleoplasm],Complex
+PIN1,UniProt:Q13526 PIN1,uniprot:Q13526,ReferenceGeneProduct,p-IRF3 dimer:PIN1 [nucleoplasm],Complex
+PIN1,UniProt:Q13526 PIN1,uniprot:Q13526,ReferenceGeneProduct,PIN1 [nucleoplasm],EntityWithAccessionedSequence
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISGylated IRF3 [cytosol],Complex
+IRF3,UniProt:Q14653 IRF3,uniprot:Q14653,ReferenceGeneProduct,ISGylated IRF3 [cytosol],Complex
+MX2,UniProt:P20592 MX2,uniprot:P20592,ReferenceGeneProduct,ISGylated host proteins [cytosol],Complex
+MX1,UniProt:P20591 MX1,uniprot:P20591,ReferenceGeneProduct,ISGylated host proteins [cytosol],Complex
+RIGI,UniProt:O95786 RIGI,uniprot:O95786,ReferenceGeneProduct,ISGylated host proteins [cytosol],Complex
+BECN1,UniProt:Q14457 BECN1,uniprot:Q14457,ReferenceGeneProduct,ISGylated host proteins [cytosol],Complex
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,ISGylated host proteins [cytosol],Complex
+PLCG1,UniProt:P19174 PLCG1,uniprot:P19174,ReferenceGeneProduct,ISGylated host proteins [cytosol],Complex
+MAPK3,UniProt:P27361 MAPK3,uniprot:P27361,ReferenceGeneProduct,ISGylated host proteins [cytosol],Complex
+UBE2E1,UniProt:P51965 UBE2E1,uniprot:P51965,ReferenceGeneProduct,ISGylated host proteins [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,ISGylated host proteins [cytosol],Complex
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,ISGylated host proteins [cytosol],Complex
+STAT1,UniProt:P42224 STAT1,uniprot:P42224,ReferenceGeneProduct,ISGylated host proteins [cytosol],Complex
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISGylated host proteins [cytosol],Complex
+MX2,UniProt:P20592 MX2,uniprot:P20592,ReferenceGeneProduct,ISG15 targets [cytosol],CandidateSet
+MX1,UniProt:P20591 MX1,uniprot:P20591,ReferenceGeneProduct,ISG15 targets [cytosol],CandidateSet
+RIGI,UniProt:O95786 RIGI,uniprot:O95786,ReferenceGeneProduct,ISG15 targets [cytosol],CandidateSet
+BECN1,UniProt:Q14457 BECN1,uniprot:Q14457,ReferenceGeneProduct,ISG15 targets [cytosol],CandidateSet
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,ISG15 targets [cytosol],CandidateSet
+PLCG1,UniProt:P19174 PLCG1,uniprot:P19174,ReferenceGeneProduct,ISG15 targets [cytosol],CandidateSet
+MAPK3,UniProt:P27361 MAPK3,uniprot:P27361,ReferenceGeneProduct,ISG15 targets [cytosol],CandidateSet
+UBE2E1,UniProt:P51965 UBE2E1,uniprot:P51965,ReferenceGeneProduct,ISG15 targets [cytosol],CandidateSet
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,ISG15 targets [cytosol],CandidateSet
+JAK1,UniProt:P23458 JAK1,uniprot:P23458,ReferenceGeneProduct,ISG15 targets [cytosol],CandidateSet
+STAT1,UniProt:P42224 STAT1,uniprot:P42224,ReferenceGeneProduct,ISG15 targets [cytosol],CandidateSet
+ARIH1,UniProt:Q9Y4X5 ARIH1,uniprot:Q9Y4X5,ReferenceGeneProduct,ISG15:UBCH8:ARIH1 [cytosol],Complex
+UBE2L6,UniProt:O14933 UBE2L6,uniprot:O14933,ReferenceGeneProduct,ISG15:UBCH8:ARIH1 [cytosol],Complex
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISG15:UBCH8:ARIH1 [cytosol],Complex
+EIF4E2,UniProt:O60573 EIF4E2,uniprot:O60573,ReferenceGeneProduct,EIF4E2 [cytosol],EntityWithAccessionedSequence
+ARIH1,UniProt:Q9Y4X5 ARIH1,uniprot:Q9Y4X5,ReferenceGeneProduct,ARIH1 [cytosol],EntityWithAccessionedSequence
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISGylated 4EHP [cytosol],Complex
+EIF4E2,UniProt:O60573 EIF4E2,uniprot:O60573,ReferenceGeneProduct,ISGylated 4EHP [cytosol],Complex
+TRIM25,UniProt:Q14258 TRIM25,uniprot:Q14258,ReferenceGeneProduct,ISG15:UBCH8:ISG15 E3 ligase [cytosol],Complex
+ARIH1,UniProt:Q9Y4X5 ARIH1,uniprot:Q9Y4X5,ReferenceGeneProduct,ISG15:UBCH8:ISG15 E3 ligase [cytosol],Complex
+HERC5,UniProt:Q9UII4 HERC5,uniprot:Q9UII4,ReferenceGeneProduct,ISG15:UBCH8:ISG15 E3 ligase [cytosol],Complex
+UBE2L6,UniProt:O14933 UBE2L6,uniprot:O14933,ReferenceGeneProduct,ISG15:UBCH8:ISG15 E3 ligase [cytosol],Complex
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISG15:UBCH8:ISG15 E3 ligase [cytosol],Complex
+NS,UniProt:P03496 NS,uniprot:P03496,ReferenceGeneProduct,NS1 dimer [cytosol],Complex
+NS,UniProt:P03496 NS,uniprot:P03496,ReferenceGeneProduct,ISGylated NS1 [cytosol],Complex
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISGylated NS1 [cytosol],Complex
+EIF4E3,UniProt:Q8N5X7 EIF4E3,uniprot:Q8N5X7,ReferenceGeneProduct,eIF4F:mRNA [cytosol],Complex
+EIF4E,UniProt:P06730 EIF4E,uniprot:P06730,ReferenceGeneProduct,eIF4F:mRNA [cytosol],Complex
+EIF4A3,UniProt:P38919 EIF4A3,uniprot:P38919,ReferenceGeneProduct,eIF4F:mRNA [cytosol],Complex
+EIF4A1,UniProt:P60842 EIF4A1,uniprot:P60842,ReferenceGeneProduct,eIF4F:mRNA [cytosol],Complex
+EIF4A2,UniProt:Q14240 EIF4A2,uniprot:Q14240,ReferenceGeneProduct,eIF4F:mRNA [cytosol],Complex
+EIF4G3,UniProt:O43432 EIF4G3,uniprot:O43432,ReferenceGeneProduct,eIF4F:mRNA [cytosol],Complex
+EIF4G2,UniProt:P78344 EIF4G2,uniprot:P78344,ReferenceGeneProduct,eIF4F:mRNA [cytosol],Complex
+EIF4G1,UniProt:Q04637 EIF4G1,uniprot:Q04637,ReferenceGeneProduct,eIF4F:mRNA [cytosol],Complex
+EIF4E3,UniProt:Q8N5X7 EIF4E3,uniprot:Q8N5X7,ReferenceGeneProduct,EIF4F [cytosol],Complex
+EIF4E,UniProt:P06730 EIF4E,uniprot:P06730,ReferenceGeneProduct,EIF4F [cytosol],Complex
+EIF4A3,UniProt:P38919 EIF4A3,uniprot:P38919,ReferenceGeneProduct,EIF4F [cytosol],Complex
+EIF4A1,UniProt:P60842 EIF4A1,uniprot:P60842,ReferenceGeneProduct,EIF4F [cytosol],Complex
+EIF4A2,UniProt:Q14240 EIF4A2,uniprot:Q14240,ReferenceGeneProduct,EIF4F [cytosol],Complex
+EIF4G3,UniProt:O43432 EIF4G3,uniprot:O43432,ReferenceGeneProduct,EIF4F [cytosol],Complex
+EIF4G2,UniProt:P78344 EIF4G2,uniprot:P78344,ReferenceGeneProduct,EIF4F [cytosol],Complex
+EIF4G1,UniProt:Q04637 EIF4G1,uniprot:Q04637,ReferenceGeneProduct,EIF4F [cytosol],Complex
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISGylated 4EHP:mRNA [cytosol],Complex
+EIF4E2,UniProt:O60573 EIF4E2,uniprot:O60573,ReferenceGeneProduct,ISGylated 4EHP:mRNA [cytosol],Complex
+IRF3,UniProt:Q14653 IRF3,uniprot:Q14653,ReferenceGeneProduct,IRF3 [cytosol],EntityWithAccessionedSequence
+NEDD4,UniProt:P46934 NEDD4,uniprot:P46934,ReferenceGeneProduct,NEDD4 [cytosol],EntityWithAccessionedSequence
+NEDD4,UniProt:P46934 NEDD4,uniprot:P46934,ReferenceGeneProduct,ISG15:NEDD4 [cytosol],Complex
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISG15:NEDD4 [cytosol],Complex
+FLNB,UniProt:O75369 FLNB,uniprot:O75369,ReferenceGeneProduct,FLNB [cytosol],EntityWithAccessionedSequence
+FLNB,UniProt:O75369 FLNB,uniprot:O75369,ReferenceGeneProduct,ISGylated Filamin B [cytosol],Complex
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISGylated Filamin B [cytosol],Complex
+UBE2L6,UniProt:O14933 UBE2L6,uniprot:O14933,ReferenceGeneProduct,ISG15:UBCH8 [cytosol],Complex
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISG15:UBCH8 [cytosol],Complex
+NUP98,UniProt:P52948-5 NUP98,uniprot:P52948-5,ReferenceIsoform,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+SEH1L,UniProt:Q96EE3-1 SEH1L,uniprot:Q96EE3-1,ReferenceIsoform,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP107,UniProt:P57740 NUP107,uniprot:P57740,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP43,UniProt:Q8NFH3 NUP43,uniprot:Q8NFH3,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP160,UniProt:Q12769 NUP160,uniprot:Q12769,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP37,UniProt:Q8NFH4 NUP37,uniprot:Q8NFH4,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP85,UniProt:Q9BW27 NUP85,uniprot:Q9BW27,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP133,UniProt:Q8WUM0 NUP133,uniprot:Q8WUM0,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+SEC13,UniProt:P55735 SEC13,uniprot:P55735,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+TPR,UniProt:P12270 TPR,uniprot:P12270,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP153,UniProt:P49790 NUP153,uniprot:P49790,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP88,UniProt:Q99567 NUP88,uniprot:Q99567,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP188,UniProt:Q5SRE5 NUP188,uniprot:Q5SRE5,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP214,UniProt:P35658 NUP214,uniprot:P35658,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NDC1,UniProt:Q9BTX1 NDC1,uniprot:Q9BTX1,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP210,UniProt:Q8TEM1 NUP210,uniprot:Q8TEM1,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+POM121,UniProt:Q96HA1 POM121,uniprot:Q96HA1,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+POM121C,UniProt:A8CG34 POM121C,uniprot:A8CG34,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP35,UniProt:Q8NFH5 NUP35,uniprot:Q8NFH5,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP93,UniProt:Q8N1F7 NUP93,uniprot:Q8N1F7,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP155,UniProt:O75694 NUP155,uniprot:O75694,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP205,UniProt:Q92621 NUP205,uniprot:Q92621,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+SEH1L,UniProt:Q96EE3-2 SEH1L,uniprot:Q96EE3-2,ReferenceIsoform,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+RAE1,UniProt:P78406 RAE1,uniprot:P78406,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP98,UniProt:P52948-3 NUP98,uniprot:P52948-3,ReferenceIsoform,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP98,UniProt:P52948-4 NUP98,uniprot:P52948-4,ReferenceIsoform,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP62,UniProt:P37198 NUP62,uniprot:P37198,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP58,UniProt:Q9BVL2-2 NUP58,uniprot:Q9BVL2-2,ReferenceIsoform,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP58,UniProt:Q9BVL2-1 NUP58,uniprot:Q9BVL2-1,ReferenceIsoform,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP54,UniProt:Q7Z3B4 NUP54,uniprot:Q7Z3B4,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP50,UniProt:Q9UKX7 NUP50,uniprot:Q9UKX7,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+AAAS,UniProt:Q9NRG9 AAAS,uniprot:Q9NRG9,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+RANBP2,UniProt:P49792 RANBP2,uniprot:P49792,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+NUP42,UniProt:O15504 NUP42,uniprot:O15504,ReferenceGeneProduct,Nuclear Pore Complex (NPC) [nuclear envelope],Complex
+KPNA4,UniProt:O00629 KPNA4,uniprot:O00629,ReferenceGeneProduct,Importin [cytosol],DefinedSet
+KPNA1,UniProt:P52294 KPNA1,uniprot:P52294,ReferenceGeneProduct,Importin [cytosol],DefinedSet
+KPNA3,UniProt:O00505 KPNA3,uniprot:O00505,ReferenceGeneProduct,Importin [cytosol],DefinedSet
+KPNA7,UniProt:A9QM74 KPNA7,uniprot:A9QM74,ReferenceGeneProduct,Importin [cytosol],DefinedSet
+KPNA2,UniProt:P52292 KPNA2,uniprot:P52292,ReferenceGeneProduct,Importin [cytosol],DefinedSet
+KPNA5,UniProt:O15131 KPNA5,uniprot:O15131,ReferenceGeneProduct,Importin [cytosol],DefinedSet
+KPNB1,UniProt:Q14974 KPNB1,uniprot:Q14974,ReferenceGeneProduct,Importin [cytosol],DefinedSet
+KPNA1,UniProt:P52294 KPNA1,uniprot:P52294,ReferenceGeneProduct,NS1 homodimer:Importin [nucleoplasm],Complex
+KPNA5,UniProt:O15131 KPNA5,uniprot:O15131,ReferenceGeneProduct,NS1 homodimer:Importin [nucleoplasm],Complex
+KPNA4,UniProt:O00629 KPNA4,uniprot:O00629,ReferenceGeneProduct,NS1 homodimer:Importin [nucleoplasm],Complex
+KPNA3,UniProt:O00505 KPNA3,uniprot:O00505,ReferenceGeneProduct,NS1 homodimer:Importin [nucleoplasm],Complex
+KPNA2,UniProt:P52292 KPNA2,uniprot:P52292,ReferenceGeneProduct,NS1 homodimer:Importin [nucleoplasm],Complex
+KPNA7,UniProt:A9QM74 KPNA7,uniprot:A9QM74,ReferenceGeneProduct,NS1 homodimer:Importin [nucleoplasm],Complex
+KPNB1,UniProt:Q14974 KPNB1,uniprot:Q14974,ReferenceGeneProduct,NS1 homodimer:Importin [nucleoplasm],Complex
+NS,UniProt:P03496 NS,uniprot:P03496,ReferenceGeneProduct,NS1 homodimer:Importin [nucleoplasm],Complex
+UBC,UniProt:P0CG48 UBC,uniprot:P0CG48,ReferenceGeneProduct,Ub [cytosol],DefinedSet
+UBB,UniProt:P0CG47 UBB,uniprot:P0CG47,ReferenceGeneProduct,Ub [cytosol],DefinedSet
+UBA52,UniProt:P62987 UBA52,uniprot:P62987,ReferenceGeneProduct,Ub [cytosol],DefinedSet
+RPS27A,UniProt:P62979 RPS27A,uniprot:P62979,ReferenceGeneProduct,Ub [cytosol],DefinedSet
+UBC,UniProt:P0CG48 UBC,uniprot:P0CG48,ReferenceGeneProduct,monoubiquitinated N-myristoyl GAG (P12493) protein [cytosol],Complex
+UBB,UniProt:P0CG47 UBB,uniprot:P0CG47,ReferenceGeneProduct,monoubiquitinated N-myristoyl GAG (P12493) protein [cytosol],Complex
+UBA52,UniProt:P62987 UBA52,uniprot:P62987,ReferenceGeneProduct,monoubiquitinated N-myristoyl GAG (P12493) protein [cytosol],Complex
+RPS27A,UniProt:P62979 RPS27A,uniprot:P62979,ReferenceGeneProduct,monoubiquitinated N-myristoyl GAG (P12493) protein [cytosol],Complex
+UBE2E1,UniProt:P51965 UBE2E1,uniprot:P51965,ReferenceGeneProduct,E2 congugating enzymes [cytosol],DefinedSet
+UBE2N,UniProt:P61088 UBE2N,uniprot:P61088,ReferenceGeneProduct,E2 congugating enzymes [cytosol],DefinedSet
+UBE2E1,UniProt:P51965 UBE2E1,uniprot:P51965,ReferenceGeneProduct,ISGylated E2 conjugating enzymes [cytosol],Complex
+UBE2N,UniProt:P61088 UBE2N,uniprot:P61088,ReferenceGeneProduct,ISGylated E2 conjugating enzymes [cytosol],Complex
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISGylated E2 conjugating enzymes [cytosol],Complex
+PPM1B,UniProt:O75688 PPM1B,uniprot:O75688,ReferenceGeneProduct,PPM1B [cytosol],EntityWithAccessionedSequence
+ISG15,UniProt:P05161 ISG15,uniprot:P05161,ReferenceGeneProduct,ISGylated PP2CB [cytosol],Complex
+PPM1B,UniProt:O75688 PPM1B,uniprot:O75688,ReferenceGeneProduct,ISGylated PP2CB [cytosol],Complex
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,IFIT1:IFIT3 [cytosol],Complex
+IFIT3,UniProt:O14879 IFIT3,uniprot:O14879,ReferenceGeneProduct,IFIT1:IFIT3 [cytosol],Complex
+CUL1,UniProt:Q13616 CUL1,uniprot:Q13616,ReferenceGeneProduct,IFIT:CUL1:SKP1:C9L [cytosol],Complex
+SKP1,UniProt:P63208 SKP1,uniprot:P63208,ReferenceGeneProduct,IFIT:CUL1:SKP1:C9L [cytosol],Complex
+OPG035,UniProt:P17372 OPG035,uniprot:P17372,ReferenceGeneProduct,IFIT:CUL1:SKP1:C9L [cytosol],Complex
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,IFIT:CUL1:SKP1:C9L [cytosol],Complex
+IFIT2,UniProt:P09913 IFIT2,uniprot:P09913,ReferenceGeneProduct,IFIT:CUL1:SKP1:C9L [cytosol],Complex
+IFIT3,UniProt:O14879 IFIT3,uniprot:O14879,ReferenceGeneProduct,IFIT:CUL1:SKP1:C9L [cytosol],Complex
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,IFIT1:IFIT1 [cytosol],Complex
+IFIT2,UniProt:P09913 IFIT2,uniprot:P09913,ReferenceGeneProduct,IFIT2:IAV mRNA [cytosol],Complex
+CUL1,UniProt:Q13616 CUL1,uniprot:Q13616,ReferenceGeneProduct,CUL1 [cytosol],EntityWithAccessionedSequence
+SKP1,UniProt:P63208 SKP1,uniprot:P63208,ReferenceGeneProduct,SKP1 [cytosol],EntityWithAccessionedSequence
+OPG035,UniProt:P17372 OPG035,uniprot:P17372,ReferenceGeneProduct,C9L [cytosol],EntityWithAccessionedSequence
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,IFIT proteins [cytosol],DefinedSet
+IFIT2,UniProt:P09913 IFIT2,uniprot:P09913,ReferenceGeneProduct,IFIT proteins [cytosol],DefinedSet
+IFIT3,UniProt:O14879 IFIT3,uniprot:O14879,ReferenceGeneProduct,IFIT proteins [cytosol],DefinedSet
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,IFIT1:IFIT2:IFIT3 [cytosol],Complex
+IFIT2,UniProt:P09913 IFIT2,uniprot:P09913,ReferenceGeneProduct,IFIT1:IFIT2:IFIT3 [cytosol],Complex
+IFIT3,UniProt:O14879 IFIT3,uniprot:O14879,ReferenceGeneProduct,IFIT1:IFIT2:IFIT3 [cytosol],Complex
+RPS7,UniProt:P62081 RPS7,uniprot:P62081,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS6,UniProt:P62753 RPS6,uniprot:P62753,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS5,UniProt:P46782 RPS5,uniprot:P46782,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS3A,UniProt:P61247 RPS3A,uniprot:P61247,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+FAU,UniProt:P62861 FAU,uniprot:P62861,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS3,UniProt:P23396 RPS3,uniprot:P23396,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS29,UniProt:P62273 RPS29,uniprot:P62273,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS28,UniProt:P62857 RPS28,uniprot:P62857,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS27A,UniProt:P62979 RPS27A,uniprot:P62979,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS4Y2,UniProt:Q8TD47 RPS4Y2,uniprot:Q8TD47,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS4X,UniProt:P62701 RPS4X,uniprot:P62701,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS4Y1,UniProt:P22090 RPS4Y1,uniprot:P22090,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS26,UniProt:P62854 RPS26,uniprot:P62854,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS25,UniProt:P62851 RPS25,uniprot:P62851,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS24,UniProt:P62847 RPS24,uniprot:P62847,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS27L,UniProt:Q71UM5 RPS27L,uniprot:Q71UM5,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS27,UniProt:P42677 RPS27,uniprot:P42677,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS23,UniProt:P62266 RPS23,uniprot:P62266,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS21,UniProt:P63220 RPS21,uniprot:P63220,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS20,UniProt:P60866 RPS20,uniprot:P60866,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS2,UniProt:P15880 RPS2,uniprot:P15880,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS15A,UniProt:P62244 RPS15A,uniprot:P62244,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS19,UniProt:P39019 RPS19,uniprot:P39019,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS18,UniProt:P62269 RPS18,uniprot:P62269,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS17,UniProt:P08708 RPS17,uniprot:P08708,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS16,UniProt:P62249 RPS16,uniprot:P62249,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS15,UniProt:P62841 RPS15,uniprot:P62841,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS14,UniProt:P62263 RPS14,uniprot:P62263,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS13,UniProt:P62277 RPS13,uniprot:P62277,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS12,UniProt:P25398 RPS12,uniprot:P25398,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS11,UniProt:P62280 RPS11,uniprot:P62280,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPSA,UniProt:P08865 RPSA,uniprot:P08865,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS10,UniProt:P46783 RPS10,uniprot:P46783,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS9,UniProt:P46781 RPS9,uniprot:P46781,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+RPS8,UniProt:P62241 RPS8,uniprot:P62241,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF3H,UniProt:O15372 EIF3H,uniprot:O15372,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF3A,UniProt:Q14152 EIF3A,uniprot:Q14152,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF3D,UniProt:O15371 EIF3D,uniprot:O15371,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF3C,UniProt:Q99613 EIF3C,uniprot:Q99613,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF3E,UniProt:P60228 EIF3E,uniprot:P60228,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF3L,UniProt:Q9Y262 EIF3L,uniprot:Q9Y262,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF3K,UniProt:Q9UBQ5 EIF3K,uniprot:Q9UBQ5,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF3M,UniProt:Q7L2H7 EIF3M,uniprot:Q7L2H7,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF3J,UniProt:O75822 EIF3J,uniprot:O75822,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF3I,UniProt:Q13347 EIF3I,uniprot:Q13347,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF3G,UniProt:O75821 EIF3G,uniprot:O75821,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF3F,UniProt:O00303 EIF3F,uniprot:O00303,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF3B,UniProt:P55884 EIF3B,uniprot:P55884,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+EIF1AX,UniProt:P47813 EIF1AX,uniprot:P47813,ReferenceGeneProduct,40S:eIF3:eIF1A [cytosol],Complex
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS7,UniProt:P62081 RPS7,uniprot:P62081,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS6,UniProt:P62753 RPS6,uniprot:P62753,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS5,UniProt:P46782 RPS5,uniprot:P46782,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS3A,UniProt:P61247 RPS3A,uniprot:P61247,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+FAU,UniProt:P62861 FAU,uniprot:P62861,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS3,UniProt:P23396 RPS3,uniprot:P23396,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS29,UniProt:P62273 RPS29,uniprot:P62273,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS28,UniProt:P62857 RPS28,uniprot:P62857,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS27A,UniProt:P62979 RPS27A,uniprot:P62979,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS4Y2,UniProt:Q8TD47 RPS4Y2,uniprot:Q8TD47,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS4X,UniProt:P62701 RPS4X,uniprot:P62701,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS4Y1,UniProt:P22090 RPS4Y1,uniprot:P22090,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS26,UniProt:P62854 RPS26,uniprot:P62854,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS25,UniProt:P62851 RPS25,uniprot:P62851,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS24,UniProt:P62847 RPS24,uniprot:P62847,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS27L,UniProt:Q71UM5 RPS27L,uniprot:Q71UM5,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS27,UniProt:P42677 RPS27,uniprot:P42677,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS23,UniProt:P62266 RPS23,uniprot:P62266,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS21,UniProt:P63220 RPS21,uniprot:P63220,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS20,UniProt:P60866 RPS20,uniprot:P60866,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS2,UniProt:P15880 RPS2,uniprot:P15880,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS15A,UniProt:P62244 RPS15A,uniprot:P62244,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS19,UniProt:P39019 RPS19,uniprot:P39019,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS18,UniProt:P62269 RPS18,uniprot:P62269,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS17,UniProt:P08708 RPS17,uniprot:P08708,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS16,UniProt:P62249 RPS16,uniprot:P62249,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS15,UniProt:P62841 RPS15,uniprot:P62841,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS14,UniProt:P62263 RPS14,uniprot:P62263,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS13,UniProt:P62277 RPS13,uniprot:P62277,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS12,UniProt:P25398 RPS12,uniprot:P25398,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS11,UniProt:P62280 RPS11,uniprot:P62280,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPSA,UniProt:P08865 RPSA,uniprot:P08865,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS10,UniProt:P46783 RPS10,uniprot:P46783,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS9,UniProt:P46781 RPS9,uniprot:P46781,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+RPS8,UniProt:P62241 RPS8,uniprot:P62241,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF3H,UniProt:O15372 EIF3H,uniprot:O15372,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF3A,UniProt:Q14152 EIF3A,uniprot:Q14152,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF3D,UniProt:O15371 EIF3D,uniprot:O15371,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF3C,UniProt:Q99613 EIF3C,uniprot:Q99613,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF3E,UniProt:P60228 EIF3E,uniprot:P60228,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF3L,UniProt:Q9Y262 EIF3L,uniprot:Q9Y262,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF3K,UniProt:Q9UBQ5 EIF3K,uniprot:Q9UBQ5,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF3M,UniProt:Q7L2H7 EIF3M,uniprot:Q7L2H7,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF3J,UniProt:O75822 EIF3J,uniprot:O75822,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF3I,UniProt:Q13347 EIF3I,uniprot:Q13347,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF3G,UniProt:O75821 EIF3G,uniprot:O75821,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF3F,UniProt:O00303 EIF3F,uniprot:O00303,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF3B,UniProt:P55884 EIF3B,uniprot:P55884,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+EIF1AX,UniProt:P47813 EIF1AX,uniprot:P47813,ReferenceGeneProduct,40S:eIF3:eIF1A:IFIT1 [cytosol],Complex
+IFIT2,UniProt:P09913 IFIT2,uniprot:P09913,ReferenceGeneProduct,IFIT2:AU-rich mRNA [cytosol],Complex
+IFIT5,UniProt:Q13325 IFIT5,uniprot:Q13325,ReferenceGeneProduct,IFIT5:IFIT5 ligand [cytosol],Complex
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,IFIT1:IFIT1:viral RNA [cytosol],Complex
+E1,UniProt:P06789 E1,uniprot:P06789,ReferenceGeneProduct,HPV18 E1 [cytosol],EntityWithAccessionedSequence
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,IFIT1:HPV18 E1 [cytosol],Complex
+E1,UniProt:P06789 E1,uniprot:P06789,ReferenceGeneProduct,IFIT1:HPV18 E1 [cytosol],Complex
+IFIT5,UniProt:Q13325 IFIT5,uniprot:Q13325,ReferenceGeneProduct,IFIT5:tRNA [cytosol],Complex
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,IFIT1:IFIT3:IFIT2:viral RNA [cytosol],Complex
+IFIT2,UniProt:P09913 IFIT2,uniprot:P09913,ReferenceGeneProduct,IFIT1:IFIT3:IFIT2:viral RNA [cytosol],Complex
+IFIT3,UniProt:O14879 IFIT3,uniprot:O14879,ReferenceGeneProduct,IFIT1:IFIT3:IFIT2:viral RNA [cytosol],Complex
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,IFIT1:viral m7G(5')pppN-mRNA [cytosol],Complex
+IFIT1,UniProt:P09914 IFIT1,uniprot:P09914,ReferenceGeneProduct,IFIT1:IFIT3:IFIT1 ligand [cytosol],Complex
+IFIT3,UniProt:O14879 IFIT3,uniprot:O14879,ReferenceGeneProduct,IFIT1:IFIT3:IFIT1 ligand [cytosol],Complex
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,GBP1 oligomer:GMP:LPS [cytosol],Complex
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,S-farn-C589-GBP1 [cytosol],EntityWithAccessionedSequence
+PGGT1B,UniProt:P53609 PGGT1B,uniprot:P53609,ReferenceGeneProduct,FNTA:PGGT1B:Zn2+ [cytosol],Complex
+FNTA,UniProt:P49354 FNTA,uniprot:P49354,ReferenceGeneProduct,FNTA:PGGT1B:Zn2+ [cytosol],Complex
+GBP5,UniProt:Q96PP8 GBP5,uniprot:Q96PP8,ReferenceGeneProduct,GBP5 [cytosol],EntityWithAccessionedSequence
+GBP5,UniProt:Q96PP8 GBP5,uniprot:Q96PP8,ReferenceGeneProduct,GGC-C583-GBP5 [cytosol],EntityWithAccessionedSequence
+FNTA,UniProt:P49354 FNTA,uniprot:P49354,ReferenceGeneProduct,FNTA:FNTB [cytosol],Complex
+FNTB,UniProt:P49356 FNTB,uniprot:P49356,ReferenceGeneProduct,FNTA:FNTB [cytosol],Complex
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,GBP1 [cytosol],EntityWithAccessionedSequence
+GBP2,UniProt:P32456 GBP2,uniprot:P32456,ReferenceGeneProduct,GGC-C588-GBP2 [cytosol],EntityWithAccessionedSequence
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,S-farn-GBP1:GTP [cytosol],Complex
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,S-farn-GBP1:GTP:LPS [peptidoglycan-based cell wall],Complex
+GBP4,UniProt:Q96PP9 GBP4,uniprot:Q96PP9,ReferenceGeneProduct,LPS:GBP1 oligomer:GBP2:GBP3:GBP4:GTP [cytosol],Complex
+GBP2,UniProt:P32456 GBP2,uniprot:P32456,ReferenceGeneProduct,LPS:GBP1 oligomer:GBP2:GBP3:GBP4:GTP [cytosol],Complex
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,LPS:GBP1 oligomer:GBP2:GBP3:GBP4:GTP [cytosol],Complex
+GBP3,UniProt:Q9H0R5 GBP3,uniprot:Q9H0R5,ReferenceGeneProduct,LPS:GBP1 oligomer:GBP2:GBP3:GBP4:GTP [cytosol],Complex
+GBP4,UniProt:Q96PP9 GBP4,uniprot:Q96PP9,ReferenceGeneProduct,LPS:(GBP1:GBP2:GBP3:GBP4) oligomer [cytosol],Polymer
+GBP2,UniProt:P32456 GBP2,uniprot:P32456,ReferenceGeneProduct,LPS:(GBP1:GBP2:GBP3:GBP4) oligomer [cytosol],Polymer
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,LPS:(GBP1:GBP2:GBP3:GBP4) oligomer [cytosol],Polymer
+GBP3,UniProt:Q9H0R5 GBP3,uniprot:Q9H0R5,ReferenceGeneProduct,LPS:(GBP1:GBP2:GBP3:GBP4) oligomer [cytosol],Polymer
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,GBP1 oligomer:GDP:LPS [cytosol],Complex
+NS,UniProt:P03496 NS,uniprot:P03496,ReferenceGeneProduct,GBP1:NS1 [cytosol],Complex
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,GBP1:NS1 [cytosol],Complex
+ACTG1,UniProt:P63261 ACTG1,uniprot:P63261,ReferenceGeneProduct,G-actin [cytosol],Complex
+ACTB,UniProt:P60709 ACTB,uniprot:P60709,ReferenceGeneProduct,G-actin [cytosol],Complex
+ACTG1,UniProt:P63261 ACTG1,uniprot:P63261,ReferenceGeneProduct,GBP1:G-actin [cytosol],Complex
+ACTB,UniProt:P60709 ACTB,uniprot:P60709,ReferenceGeneProduct,GBP1:G-actin [cytosol],Complex
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,GBP1:G-actin [cytosol],Complex
+GBP5,UniProt:Q96PP8 GBP5,uniprot:Q96PP8,ReferenceGeneProduct,"GGC-GBP2, GGC-GBP5 [cytosol]",DefinedSet
+GBP2,UniProt:P32456 GBP2,uniprot:P32456,ReferenceGeneProduct,"GGC-GBP2, GGC-GBP5 [cytosol]",DefinedSet
+FURIN,UniProt:P09958 FURIN,uniprot:P09958,ReferenceGeneProduct,FURIN [Golgi membrane],EntityWithAccessionedSequence
+GBP2,UniProt:P32456 GBP2,uniprot:P32456,ReferenceGeneProduct,"FURIN:GGC-GBP5:GTP, FURIN:GGC-GBP2:GTP [Golgi membrane]",DefinedSet
+FURIN,UniProt:P09958 FURIN,uniprot:P09958,ReferenceGeneProduct,"FURIN:GGC-GBP5:GTP, FURIN:GGC-GBP2:GTP [Golgi membrane]",DefinedSet
+GBP5,UniProt:Q96PP8 GBP5,uniprot:Q96PP8,ReferenceGeneProduct,"FURIN:GGC-GBP5:GTP, FURIN:GGC-GBP2:GTP [Golgi membrane]",DefinedSet
+GBP4,UniProt:Q96PP9 GBP4,uniprot:Q96PP9,ReferenceGeneProduct,GBP4 [cytosol],EntityWithAccessionedSequence
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,LPS-bound GBP1 oligomer [cytosol],DefinedSet
+GBP3,UniProt:Q9H0R5 GBP3,uniprot:Q9H0R5,ReferenceGeneProduct,GBP3 [cytosol],EntityWithAccessionedSequence
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,"S-farn-C589, p-S156, T590-GBP1 [cytosol]",EntityWithAccessionedSequence
+SFN,UniProt:P31947 SFN,uniprot:P31947,ReferenceGeneProduct,SFN Dimer [cytosol],Complex
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,"S-farn-C,p-S,T-GBP1:SFN dimer [cytosol]",Complex
+SFN,UniProt:P31947 SFN,uniprot:P31947,ReferenceGeneProduct,"S-farn-C,p-S,T-GBP1:SFN dimer [cytosol]",Complex
+PIM1,UniProt:P11309 PIM1,uniprot:P11309,ReferenceGeneProduct,PIM1 [cytosol],EntityWithAccessionedSequence
+CASP1,UniProt:P29466 CASP1,uniprot:P29466,ReferenceGeneProduct,Caspase-1 tetramer [cytosol],Complex
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,GBP1(1-192) [cytosol],EntityWithAccessionedSequence
+GBP1,UniProt:P32455 GBP1,uniprot:P32455,ReferenceGeneProduct,GBP1(193-592) [cytosol],EntityWithAccessionedSequence
+OAS2,UniProt:P29728 OAS2,uniprot:P29728,ReferenceGeneProduct,OAS2:OAS2 ligand [cytosol],Complex
+OAS2,UniProt:P29728 OAS2,uniprot:P29728,ReferenceGeneProduct,OAS2:OAS2 ligand dimer [cytosol],Complex
+OAS1,UniProt:P00973 OAS1,uniprot:P00973,ReferenceGeneProduct,OAS1:OAS1 ligand [cytosol],Complex
+OAS1,UniProt:P00973 OAS1,uniprot:P00973,ReferenceGeneProduct,OAS1 tetramer:OAS1 ligand [cytosol],Complex
+OASL,UniProt:Q15646 OASL,uniprot:Q15646,ReferenceGeneProduct,OASL [cytosol],EntityWithAccessionedSequence
+OASL,UniProt:Q15646 OASL,uniprot:Q15646,ReferenceGeneProduct,OASL:DDX58 [cytosol],Complex
+RIGI,UniProt:O95786 RIGI,uniprot:O95786,ReferenceGeneProduct,OASL:DDX58 [cytosol],Complex
+OAS3,UniProt:Q9Y6K5 OAS3,uniprot:Q9Y6K5,ReferenceGeneProduct,OAS3:viral dsRNA intermediates [cytosol],Complex
+FLNA,UniProt:P21333 FLNA,uniprot:P21333,ReferenceGeneProduct,RNASEL:FLNA [cytosol],Complex
+RNASEL,UniProt:Q05823 RNASEL,uniprot:Q05823,ReferenceGeneProduct,RNASEL:FLNA [cytosol],Complex
+FLNA,UniProt:P21333 FLNA,uniprot:P21333,ReferenceGeneProduct,FLNA [cytosol],EntityWithAccessionedSequence
+RNASEL,UniProt:Q05823 RNASEL,uniprot:Q05823,ReferenceGeneProduct,RNASEL:2'-5' oligoadenylate [cytosol],Complex
+ABCE1,UniProt:P61221 ABCE1,uniprot:P61221,ReferenceGeneProduct,ABCE1 [cytosol],EntityWithAccessionedSequence
+VP3,UniProt:B1NKT1 VP3,uniprot:B1NKT1,ReferenceGeneProduct,Protein VP3 [cytosol],EntityWithAccessionedSequence
+PDE12,UniProt:Q6L8Q7 PDE12,uniprot:Q6L8Q7,ReferenceGeneProduct,PDE12 [cytosol],EntityWithAccessionedSequence
+OAS3,UniProt:Q9Y6K5 OAS3,uniprot:Q9Y6K5,ReferenceGeneProduct,OAS3 [cytosol],EntityWithAccessionedSequence
+ABCE1,UniProt:P61221 ABCE1,uniprot:P61221,ReferenceGeneProduct,ABCE1:RNASEL [cytosol],Complex
+RNASEL,UniProt:Q05823 RNASEL,uniprot:Q05823,ReferenceGeneProduct,ABCE1:RNASEL [cytosol],Complex
+OAS2,UniProt:P29728 OAS2,uniprot:P29728,ReferenceGeneProduct,OAS2 [cytosol],EntityWithAccessionedSequence
+OAS1,UniProt:P00973 OAS1,uniprot:P00973,ReferenceGeneProduct,OAS1 [cytosol],EntityWithAccessionedSequence
+ADAR,UniProt:P55265 ADAR,uniprot:P55265,ReferenceGeneProduct,ADAR1 dimer [cytosol],Complex
+ADAR,UniProt:P55265 ADAR,uniprot:P55265,ReferenceGeneProduct,ADAR1 dimer:EIF2AK2 [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,ADAR1 dimer:EIF2AK2 [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,EIF2AK2 dimer:Viral RNA activators [cytosol],Complex
+MAVS,UniProt:Q7Z434 MAVS,uniprot:Q7Z434,ReferenceGeneProduct,MAVS [mitochondrial outer membrane],EntityWithAccessionedSequence
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,p-EIF2AK2 dimer [cytosol],Complex
+EIF2S2,UniProt:P20042 EIF2S2,uniprot:P20042,ReferenceGeneProduct,EIF2S1:EIF2S2:EIF2S3 [cytosol],Complex
+EIF2S3,UniProt:P41091 EIF2S3,uniprot:P41091,ReferenceGeneProduct,EIF2S1:EIF2S2:EIF2S3 [cytosol],Complex
+EIF2S1,UniProt:P05198 EIF2S1,uniprot:P05198,ReferenceGeneProduct,EIF2S1:EIF2S2:EIF2S3 [cytosol],Complex
+EIF2S2,UniProt:P20042 EIF2S2,uniprot:P20042,ReferenceGeneProduct,p-S52-EIF2S1:EIF2S2:EIF2S3 [cytosol],Complex
+EIF2S1,UniProt:P05198 EIF2S1,uniprot:P05198,ReferenceGeneProduct,p-S52-EIF2S1:EIF2S2:EIF2S3 [cytosol],Complex
+EIF2S3,UniProt:P41091 EIF2S3,uniprot:P41091,ReferenceGeneProduct,p-S52-EIF2S1:EIF2S2:EIF2S3 [cytosol],Complex
+N,UniProt:P03418 N,uniprot:P03418,ReferenceGeneProduct,Protein N decamer [cytosol],Complex
+TRS1,UniProt:Q6SVX2 TRS1,uniprot:Q6SVX2,ReferenceGeneProduct,TRS1 [cytosol],EntityWithAccessionedSequence
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,tat72:EIF2AK2 [cytosol],Complex
+PTPN2,UniProt:P17706 PTPN2,uniprot:P17706,ReferenceGeneProduct,PTPN2 [cytosol],EntityWithAccessionedSequence
+PTPN2,UniProt:P17706 PTPN2,uniprot:P17706,ReferenceGeneProduct,p-PTPN2 [cytosol],EntityWithAccessionedSequence
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,p-EIF2AK2 dimer [nucleoplasm],Complex
+MAP2K6,UniProt:P52564 MAP2K6,uniprot:P52564,ReferenceGeneProduct,MAP2K6 [cytosol],EntityWithAccessionedSequence
+MAP2K6,UniProt:P52564 MAP2K6,uniprot:P52564,ReferenceGeneProduct,"p-S207,T211-MAP2K6 [cytosol]",EntityWithAccessionedSequence
+TRS1,UniProt:Q6SVX2 TRS1,uniprot:Q6SVX2,ReferenceGeneProduct,TRS1:p-EIF2AK2 dimer [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,TRS1:p-EIF2AK2 dimer [cytosol],Complex
+DUS2,UniProt:Q9NX74 DUS2,uniprot:Q9NX74,ReferenceGeneProduct,DUS2 [cytosol],EntityWithAccessionedSequence
+DUS2,UniProt:Q9NX74 DUS2,uniprot:Q9NX74,ReferenceGeneProduct,DUS2:EIF2AK2 [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,DUS2:EIF2AK2 [cytosol],Complex
+UBE2I,UniProt:P63279 UBE2I,uniprot:P63279,ReferenceGeneProduct,"SUMO1,2-UBE2I [cytosol]",DefinedSet
+SUMO1,UniProt:P63165 SUMO1,uniprot:P63165,ReferenceGeneProduct,"SUMO1,2-UBE2I [cytosol]",DefinedSet
+UBE2I,UniProt:P63279 UBE2I,uniprot:P63279,ReferenceGeneProduct,UBE2I [cytosol],EntityWithAccessionedSequence
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,SUMO-EIF2AK2 dimer [cytosol],Complex
+PPP2R1A,UniProt:P30153 PPP2R1A,uniprot:P30153,ReferenceGeneProduct,PPP2R5A-specific PP2A [cytosol],Complex
+PPP2R1B,UniProt:P30154 PPP2R1B,uniprot:P30154,ReferenceGeneProduct,PPP2R5A-specific PP2A [cytosol],Complex
+PPP2R5A,UniProt:Q15172 PPP2R5A,uniprot:Q15172,ReferenceGeneProduct,PPP2R5A-specific PP2A [cytosol],Complex
+PPP2CA,UniProt:P67775 PPP2CA,uniprot:P67775,ReferenceGeneProduct,PPP2R5A-specific PP2A [cytosol],Complex
+PPP2CB,UniProt:P62714 PPP2CB,uniprot:P62714,ReferenceGeneProduct,PPP2R5A-specific PP2A [cytosol],Complex
+PPP2R1A,UniProt:P30153 PPP2R1A,uniprot:P30153,ReferenceGeneProduct,Activated PPP2R5A-specific PP2A [cytosol],Complex
+PPP2R1B,UniProt:P30154 PPP2R1B,uniprot:P30154,ReferenceGeneProduct,Activated PPP2R5A-specific PP2A [cytosol],Complex
+PPP2R5A,UniProt:Q15172 PPP2R5A,uniprot:Q15172,ReferenceGeneProduct,Activated PPP2R5A-specific PP2A [cytosol],Complex
+PPP2CA,UniProt:P67775 PPP2CA,uniprot:P67775,ReferenceGeneProduct,Activated PPP2R5A-specific PP2A [cytosol],Complex
+PPP2CB,UniProt:P62714 PPP2CB,uniprot:P62714,ReferenceGeneProduct,Activated PPP2R5A-specific PP2A [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,EIF2AK2 dimer:heparin [cytosol],Complex
+TARBP2,UniProt:Q15633 TARBP2,uniprot:Q15633,ReferenceGeneProduct,p-TARBP2:EIF2AK2 [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,p-TARBP2:EIF2AK2 [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,EIF2AK2:PKR inhibitors [cytosol],Complex
+PRKRA,UniProt:O75569 PRKRA,uniprot:O75569,ReferenceGeneProduct,p-PRKRA:EIF2AK2 dimer [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,p-PRKRA:EIF2AK2 dimer [cytosol],Complex
+DNAJC3,UniProt:Q13217 DNAJC3,uniprot:Q13217,ReferenceGeneProduct,DNAJC3:EIF2AK2 [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,DNAJC3:EIF2AK2 [cytosol],Complex
+FANCB,UniProt:Q8NB91 FANCB,uniprot:Q8NB91,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+FANCG,UniProt:O15287 FANCG,uniprot:O15287,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+FANCL,UniProt:Q9NW38 FANCL,uniprot:Q9NW38,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+FANCE,UniProt:Q9HB96 FANCE,uniprot:Q9HB96,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+FANCC,UniProt:Q00597 FANCC,uniprot:Q00597,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+CENPX,UniProt:A8MT69 CENPX,uniprot:A8MT69,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+CENPS,UniProt:Q8N2Z9 CENPS,uniprot:Q8N2Z9,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+FAAP100,UniProt:Q0VG06 FAAP100,uniprot:Q0VG06,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+FANCA,UniProt:O15360 FANCA,uniprot:O15360,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+FANCF,UniProt:Q9NPI8 FANCF,uniprot:Q9NPI8,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+FANCM,UniProt:Q8IYD8 FANCM,uniprot:Q8IYD8,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+FAAP24,UniProt:Q9BTP7 FAAP24,uniprot:Q9BTP7,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+FAAP20,UniProt:Q6NZ36 FAAP20,uniprot:Q6NZ36,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+HSPA1L,UniProt:P34931 HSPA1L,uniprot:P34931,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+HSPA2,UniProt:P54652 HSPA2,uniprot:P54652,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+HSPA1B,UniProt:P0DMV9 HSPA1B,uniprot:P0DMV9,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+HSPA8,UniProt:P11142 HSPA8,uniprot:P11142,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+HSPA1A,UniProt:P0DMV8 HSPA1A,uniprot:P0DMV8,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,FA Core Complex:HSP70s:EIF2AK2 [cytosol],Complex
+N,UniProt:P03418 N,uniprot:P03418,ReferenceGeneProduct,EIF2AK2:N [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,EIF2AK2:N [cytosol],Complex
+NS,UniProt:P03496 NS,uniprot:P03496,ReferenceGeneProduct,NS1 Homodimer:PKR Complex [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,NS1 Homodimer:PKR Complex [cytosol],Complex
+ILF3,UniProt:Q12906 ILF3,uniprot:Q12906,ReferenceGeneProduct,ILF3:EIF2AK2 dimer [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,ILF3:EIF2AK2 dimer [cytosol],Complex
+NCK1,UniProt:P16333 NCK1,uniprot:P16333,ReferenceGeneProduct,EIF2AK2:NCK1 [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,EIF2AK2:NCK1 [cytosol],Complex
+SPHK1,UniProt:Q9NYA1 SPHK1,uniprot:Q9NYA1,ReferenceGeneProduct,EIF2AK2:p-SPHK1 [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,EIF2AK2:p-SPHK1 [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,ISG15-EIF2AK2 dimer [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,"STAT1,STAT3:EIF2AK2 [cytosol]",Complex
+STAT3,UniProt:P40763 STAT3,uniprot:P40763,ReferenceGeneProduct,"STAT1,STAT3:EIF2AK2 [cytosol]",Complex
+STAT1,UniProt:P42224 STAT1,uniprot:P42224,ReferenceGeneProduct,"STAT1,STAT3:EIF2AK2 [cytosol]",Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,EIF2AK2 dimer:Host RNA activators [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,NPM1:EIF2AK2 [cytosol],Complex
+NPM1,UniProt:P06748 NPM1,uniprot:P06748,ReferenceGeneProduct,NPM1:EIF2AK2 [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,EIF2AK2:HIV TAR RNA [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,EIF2AK2:VTRNA2-1 [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,EIF2AK2 dimer [cytosol],Complex
+DHX9,UniProt:Q08211 DHX9,uniprot:Q08211,ReferenceGeneProduct,DHX9 [cytosol],EntityWithAccessionedSequence
+DHX9,UniProt:Q08211 DHX9,uniprot:Q08211,ReferenceGeneProduct,p-DHX9 [cytosol],EntityWithAccessionedSequence
+SPHK1,UniProt:Q9NYA1 SPHK1,uniprot:Q9NYA1,ReferenceGeneProduct,p-S225-SPHK1 [cytosol],EntityWithAccessionedSequence
+DNAJC3,UniProt:Q13217 DNAJC3,uniprot:Q13217,ReferenceGeneProduct,DNAJC3 [cytosol],EntityWithAccessionedSequence
+STAT3,UniProt:P40763 STAT3,uniprot:P40763,ReferenceGeneProduct,"STAT1, STAT3 [cytosol]",DefinedSet
+STAT1,UniProt:P42224 STAT1,uniprot:P42224,ReferenceGeneProduct,"STAT1, STAT3 [cytosol]",DefinedSet
+NCK1,UniProt:P16333 NCK1,uniprot:P16333,ReferenceGeneProduct,NCK1 [cytosol],EntityWithAccessionedSequence
+TUBB6,UniProt:Q9BUF5 TUBB6,uniprot:Q9BUF5,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBB2A,UniProt:Q13885 TUBB2A,uniprot:Q13885,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBB4B,UniProt:P68371 TUBB4B,uniprot:P68371,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBB1,UniProt:Q9H4B7 TUBB1,uniprot:Q9H4B7,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBB3,UniProt:Q13509 TUBB3,uniprot:Q13509,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBB2B,UniProt:Q9BVA1 TUBB2B,uniprot:Q9BVA1,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBB8,UniProt:Q3ZCM7 TUBB8,uniprot:Q3ZCM7,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBB4A,UniProt:P04350 TUBB4A,uniprot:P04350,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBB8B,UniProt:A6NNZ2 TUBB8B,uniprot:A6NNZ2,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBA8,UniProt:Q9NY65 TUBA8,uniprot:Q9NY65,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBA4B,UniProt:Q9H853 TUBA4B,uniprot:Q9H853,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBAL3,UniProt:A6NHL2 TUBAL3,uniprot:A6NHL2,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBA3E,UniProt:Q6PEY2 TUBA3E,uniprot:Q6PEY2,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBA1B,UniProt:P68363 TUBA1B,uniprot:P68363,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBA1A,UniProt:Q71U36 TUBA1A,uniprot:Q71U36,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBA1C,UniProt:Q9BQE3 TUBA1C,uniprot:Q9BQE3,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBA3C,UniProt:P0DPH7 TUBA3C,uniprot:P0DPH7,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBA3D,UniProt:P0DPH8 TUBA3D,uniprot:P0DPH8,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+TUBA4A,UniProt:P68366 TUBA4A,uniprot:P68366,ReferenceGeneProduct,MAPT-8:Microtubule [cytosol],Complex
+MAPT,UniProt:P10636-8 MAPT,uniprot:P10636-8,ReferenceIsoform,MAPT-8:Microtubule [cytosol],Complex
+TUBB6,UniProt:Q9BUF5 TUBB6,uniprot:Q9BUF5,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBB2A,UniProt:Q13885 TUBB2A,uniprot:Q13885,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBB4B,UniProt:P68371 TUBB4B,uniprot:P68371,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBB1,UniProt:Q9H4B7 TUBB1,uniprot:Q9H4B7,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBB3,UniProt:Q13509 TUBB3,uniprot:Q13509,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBB2B,UniProt:Q9BVA1 TUBB2B,uniprot:Q9BVA1,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBB8,UniProt:Q3ZCM7 TUBB8,uniprot:Q3ZCM7,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBB4A,UniProt:P04350 TUBB4A,uniprot:P04350,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBB8B,UniProt:A6NNZ2 TUBB8B,uniprot:A6NNZ2,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBA8,UniProt:Q9NY65 TUBA8,uniprot:Q9NY65,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBA4B,UniProt:Q9H853 TUBA4B,uniprot:Q9H853,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBAL3,UniProt:A6NHL2 TUBAL3,uniprot:A6NHL2,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBA3E,UniProt:Q6PEY2 TUBA3E,uniprot:Q6PEY2,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBA1B,UniProt:P68363 TUBA1B,uniprot:P68363,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBA1A,UniProt:Q71U36 TUBA1A,uniprot:Q71U36,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBA1C,UniProt:Q9BQE3 TUBA1C,uniprot:Q9BQE3,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBA3C,UniProt:P0DPH7 TUBA3C,uniprot:P0DPH7,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBA3D,UniProt:P0DPH8 TUBA3D,uniprot:P0DPH8,ReferenceGeneProduct,Microtubule [cytosol],Complex
+TUBA4A,UniProt:P68366 TUBA4A,uniprot:P68366,ReferenceGeneProduct,Microtubule [cytosol],Complex
+MAPT,UniProt:P10636-8 MAPT,uniprot:P10636-8,ReferenceIsoform,"p-S199,S202,S262,S396,S404,S409,T181,T231-MAPT-8 [cytosol]",EntityWithAccessionedSequence
+ILF3,UniProt:Q12906 ILF3,uniprot:Q12906,ReferenceGeneProduct,ILF3 [cytosol],EntityWithAccessionedSequence
+SPHK1,UniProt:Q9NYA1 SPHK1,uniprot:Q9NYA1,ReferenceGeneProduct,SPHK1 [nucleoplasm],EntityWithAccessionedSequence
+SPHK1,UniProt:Q9NYA1 SPHK1,uniprot:Q9NYA1,ReferenceGeneProduct,p-S225-SPHK1 [nucleoplasm],EntityWithAccessionedSequence
+TP53,UniProt:P04637 TP53,uniprot:P04637,ReferenceGeneProduct,TP53 Tetramer [nucleoplasm],Complex
+TP53,UniProt:P04637 TP53,uniprot:P04637,ReferenceGeneProduct,p-S392-TP53 tetramer [nucleoplasm],Complex
+NPM1,UniProt:P06748 NPM1,uniprot:P06748,ReferenceGeneProduct,NPM1 [cytosol],EntityWithAccessionedSequence
+PRKRA,UniProt:O75569 PRKRA,uniprot:O75569,ReferenceGeneProduct,p-PRKRA dimer [cytosol],Complex
+CDK1,UniProt:P06493 CDK1,uniprot:P06493,ReferenceGeneProduct,CDK1 [cytosol],EntityWithAccessionedSequence
+CDK1,UniProt:P06493 CDK1,uniprot:P06493,ReferenceGeneProduct,p-Y4-CDK1 [cytosol],EntityWithAccessionedSequence
+ILF3,UniProt:Q12906 ILF3,uniprot:Q12906,ReferenceGeneProduct,ILF2:ILF3 [cytosol],Complex
+ILF2,UniProt:Q12905 ILF2,uniprot:Q12905,ReferenceGeneProduct,ILF2:ILF3 [cytosol],Complex
+ILF3,UniProt:Q12906 ILF3,uniprot:Q12906,ReferenceGeneProduct,"p-T188,T315-ILF3 [cytosol]",EntityWithAccessionedSequence
+ILF2,UniProt:Q12905 ILF2,uniprot:Q12905,ReferenceGeneProduct,ILF2 [cytosol],EntityWithAccessionedSequence
+TARBP2,UniProt:Q15633 TARBP2,uniprot:Q15633,ReferenceGeneProduct,p-TARBP2 [cytosol],EntityWithAccessionedSequence
+SNCA,UniProt:P37840 SNCA,uniprot:P37840,ReferenceGeneProduct,SNCA [cytosol],EntityWithAccessionedSequence
+SNCA,UniProt:P37840 SNCA,uniprot:P37840,ReferenceGeneProduct,p-S129-SNCA [cytosol],EntityWithAccessionedSequence
+FANCB,UniProt:Q8NB91 FANCB,uniprot:Q8NB91,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+FANCG,UniProt:O15287 FANCG,uniprot:O15287,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+FANCL,UniProt:Q9NW38 FANCL,uniprot:Q9NW38,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+FANCE,UniProt:Q9HB96 FANCE,uniprot:Q9HB96,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+FANCC,UniProt:Q00597 FANCC,uniprot:Q00597,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+CENPX,UniProt:A8MT69 CENPX,uniprot:A8MT69,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+CENPS,UniProt:Q8N2Z9 CENPS,uniprot:Q8N2Z9,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+FAAP100,UniProt:Q0VG06 FAAP100,uniprot:Q0VG06,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+FANCA,UniProt:O15360 FANCA,uniprot:O15360,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+FANCF,UniProt:Q9NPI8 FANCF,uniprot:Q9NPI8,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+FANCM,UniProt:Q8IYD8 FANCM,uniprot:Q8IYD8,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+FAAP24,UniProt:Q9BTP7 FAAP24,uniprot:Q9BTP7,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+FAAP20,UniProt:Q6NZ36 FAAP20,uniprot:Q6NZ36,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+HSPA1L,UniProt:P34931 HSPA1L,uniprot:P34931,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+HSPA2,UniProt:P54652 HSPA2,uniprot:P54652,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+HSPA1B,UniProt:P0DMV9 HSPA1B,uniprot:P0DMV9,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+HSPA8,UniProt:P11142 HSPA8,uniprot:P11142,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+HSPA1A,UniProt:P0DMV8 HSPA1A,uniprot:P0DMV8,ReferenceGeneProduct,FA Core Complex:HSP70s [cytosol],Complex
+IKBKB,UniProt:O14920 IKBKB,uniprot:O14920,ReferenceGeneProduct,EIF2AK2:CHUK:IKBKB:IKBKG [cytosol],Complex
+EIF2AK2,UniProt:P19525 EIF2AK2,uniprot:P19525,ReferenceGeneProduct,EIF2AK2:CHUK:IKBKB:IKBKG [cytosol],Complex
+CHUK,UniProt:O15111 CHUK,uniprot:O15111,ReferenceGeneProduct,EIF2AK2:CHUK:IKBKB:IKBKG [cytosol],Complex
+IKBKG,UniProt:Q9Y6K9 IKBKG,uniprot:Q9Y6K9,ReferenceGeneProduct,EIF2AK2:CHUK:IKBKB:IKBKG [cytosol],Complex

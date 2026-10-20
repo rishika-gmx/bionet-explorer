@@ -1,0 +1,2 @@
+threshold_a,threshold_b,shared_proteins,adjusted_rand_index
+0.7,0.9,306,0.6607045791278806

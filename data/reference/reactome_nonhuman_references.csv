@@ -1,0 +1,16 @@
+gene_symbol,reference_display_name,reference_stable_id,reference_schema_class,participant_name,participant_class,uniprot_accession,organism,taxon_id,status
+N,UniProt:P0DTC9 N,uniprot:P0DTC9,ReferenceGeneProduct,"STAT1,STAT2:N [cytosol]",Complex,P0DTC9,Severe acute respiratory syndrome coronavirus 2,2697049,nonhuman
+NS,UniProt:P03496 NS,uniprot:P03496,ReferenceGeneProduct,NS1 dimer [cytosol],Complex,P03496,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),211044,nonhuman
+NS,UniProt:P03496 NS,uniprot:P03496,ReferenceGeneProduct,ISGylated NS1 [cytosol],Complex,P03496,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),211044,nonhuman
+NS,UniProt:P03496 NS,uniprot:P03496,ReferenceGeneProduct,NS1 homodimer:Importin [nucleoplasm],Complex,P03496,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),211044,nonhuman
+OPG035,UniProt:P17372 OPG035,uniprot:P17372,ReferenceGeneProduct,IFIT:CUL1:SKP1:C9L [cytosol],Complex,P17372,Vaccinia virus (strain Western Reserve),10254,nonhuman
+OPG035,UniProt:P17372 OPG035,uniprot:P17372,ReferenceGeneProduct,C9L [cytosol],EntityWithAccessionedSequence,P17372,Vaccinia virus (strain Western Reserve),10254,nonhuman
+E1,UniProt:P06789 E1,uniprot:P06789,ReferenceGeneProduct,HPV18 E1 [cytosol],EntityWithAccessionedSequence,P06789,Human papillomavirus type 18,333761,nonhuman
+E1,UniProt:P06789 E1,uniprot:P06789,ReferenceGeneProduct,IFIT1:HPV18 E1 [cytosol],Complex,P06789,Human papillomavirus type 18,333761,nonhuman
+NS,UniProt:P03496 NS,uniprot:P03496,ReferenceGeneProduct,GBP1:NS1 [cytosol],Complex,P03496,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),211044,nonhuman
+VP3,UniProt:B1NKT1 VP3,uniprot:B1NKT1,ReferenceGeneProduct,Protein VP3 [cytosol],EntityWithAccessionedSequence,B1NKT1,Rotavirus A (strain RVA/Human/United States/P/1974/G3P1A[8]),10957,nonhuman
+N,UniProt:P03418 N,uniprot:P03418,ReferenceGeneProduct,Protein N decamer [cytosol],Complex,P03418,Human respiratory syncytial virus A (strain A2),11259,nonhuman
+TRS1,UniProt:Q6SVX2 TRS1,uniprot:Q6SVX2,ReferenceGeneProduct,TRS1 [cytosol],EntityWithAccessionedSequence,Q6SVX2,Human cytomegalovirus (strain Merlin),295027,nonhuman
+TRS1,UniProt:Q6SVX2 TRS1,uniprot:Q6SVX2,ReferenceGeneProduct,TRS1:p-EIF2AK2 dimer [cytosol],Complex,Q6SVX2,Human cytomegalovirus (strain Merlin),295027,nonhuman
+N,UniProt:P03418 N,uniprot:P03418,ReferenceGeneProduct,EIF2AK2:N [cytosol],Complex,P03418,Human respiratory syncytial virus A (strain A2),11259,nonhuman
+NS,UniProt:P03496 NS,uniprot:P03496,ReferenceGeneProduct,NS1 Homodimer:PKR Complex [cytosol],Complex,P03496,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),211044,nonhuman
