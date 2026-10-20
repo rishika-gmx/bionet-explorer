@@ -11,7 +11,7 @@ RESULTS_DIR = Path("results/reference_network")
 INTERACTION_FILE = RESULTS_DIR / "interactions.csv"
 COMMUNITY_FILE = RESULTS_DIR / "community_assignments.csv"
 CENTRALITY_FILE = RESULTS_DIR / "centrality_results.csv"
-OUTPUT_FILE = RESULTS_DIR / "stable_interferon_module.html"
+OUTPUT_FILE = Path("results/visualizations/reference_network/stable_interferon_module.html")
 
 
 def main():
@@ -110,8 +110,8 @@ def main():
         yaxis=dict(visible=False),
     )
 
+    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     figure.write_html(str(OUTPUT_FILE), include_plotlyjs=True)
-
     print(f"Saved: {OUTPUT_FILE}")
     print(f"Shared proteins selected: {len(stable_proteins)}")
     print(f"Edges among selected proteins: {module.number_of_edges()}")

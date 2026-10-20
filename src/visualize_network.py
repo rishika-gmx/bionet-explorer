@@ -50,9 +50,9 @@ def main():
     node_y = [positions[node][1] for node in nodes]
     degrees = [metrics[node]["degree"] for node in nodes]
     betweenness = [
-        metrics[node]["betweenness_centrality"]
-        for node in nodes
-    ]
+    metrics[node]["betweenness_unweighted"]
+    for node in nodes
+]
 
     hover_text = [
         (
@@ -60,8 +60,8 @@ def main():
             f"<br>Degree: {metrics[node]['degree']}"
             f"<br>Weighted degree: "
             f"{metrics[node]['weighted_degree']:.3f}"
-            f"<br>Betweenness: "
-            f"{metrics[node]['betweenness_centrality']:.4f}"
+            f"<br>Betweenness (unweighted): "
+            f"{metrics[node]['betweenness_unweighted']:.4f}"
         )
         for node in nodes
     ]
@@ -99,11 +99,11 @@ def main():
     )
 
     figure.write_html(
-        f"{RESULTS_DIR}/interferon_network.html",
+        f"{RESULTS_DIR}/visualizations/interferon_network.html",
         include_plotlyjs=True,
     )
 
-    print("Saved results/interferon_network.html")
+    print("Saved results/visualizations/interferon_network.html")
 
 
 if __name__ == "__main__":

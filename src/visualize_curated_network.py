@@ -11,7 +11,7 @@ RESULTS_DIR = Path("results/reference_network")
 INTERACTION_FILE = RESULTS_DIR / "interactions.csv"
 CENTRALITY_FILE = RESULTS_DIR / "centrality_results.csv"
 COMMUNITY_FILE = RESULTS_DIR / "community_assignments.csv"
-OUTPUT_FILE = RESULTS_DIR / "interferon_network.html"
+OUTPUT_FILE = Path("results/visualizations/reference_network/interferon_network.html")
 
 THRESHOLD = 0.7
 
