@@ -6,6 +6,21 @@ BioNet Explorer is a computational biology project that explores the organizatio
 
 The project combines pathway-derived gene curation, STRING functional association data, network centrality analysis, community detection, and confidence-threshold sensitivity analysis to investigate how interferon signaling proteins connect with antiviral defense and other cellular processes.
 
+
+## 🔬 Explore the Interactive Network
+
+The network visualizations below are hosted on GitHub Pages and can be explored directly in your browser.
+
+- **[Full Interferon Network](https://rishika-gmx.github.io/bionet-explorer/results/visualizations/reference_network/interferon_network.html)**  
+  Explore the complete network of 324 proteins and 4,486 functional association edges, coloured by community.
+
+- **[Stable Interferon/Antiviral Module](https://rishika-gmx.github.io/bionet-explorer/results/visualizations/reference_network/stable_interferon_module.html)**  
+  Explore the 74 proteins shared between the two community-threshold analyses, connected by 913 edges.
+
+- **[Pilot Network Visualization](https://rishika-gmx.github.io/bionet-explorer/results/visualizations/interferon_network.html)**  
+  View the initial network visualization.
+
+
 ## Research Question
 
 **How is the human interferon-associated network organized, and which proteins occupy highly connected or bridging positions between functional groups?**
@@ -96,8 +111,6 @@ Together, these findings show that the inferred network contains recognizable in
 The project generates two interactive HTML files:
 
 -
-## Visualizations
-
 
 ## Visualizations
 
