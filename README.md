@@ -7,7 +7,7 @@ BioNet Explorer is a computational biology project that explores the organizatio
 The project combines pathway-derived gene curation, STRING functional association data, network centrality analysis, community detection, and confidence-threshold sensitivity analysis to investigate how interferon signaling proteins connect with antiviral defense and other cellular processes.
 
 
-## 🔬 Explore the Interactive Network
+## Explore the Interactive Network
 
 The network visualizations below are hosted on GitHub Pages and can be explored directly in your browser.
 
@@ -47,6 +47,8 @@ The network visualizations below are hosted on GitHub Pages and can be explored 
 | Reactome | Human interferon-signaling pathway participants |
 | UniProt | Protein reference and species validation |
 | Git and GitHub | Version control and project sharing |
+
+**STRING data provenance:** Protein functional associations were retrieved using the STRING API with a minimum combined confidence score of 0.700. The STRING API version endpoint reported version 12.5 (`https://version-12-5.string-db.org`). The extraction script uses the generic API base URL (`https://string-db.org/api`); therefore, the version reported separately does not conclusively establish which release served the original extraction requests. The original retrieval date has not yet been independently verified.
 
 ## Workflow
 
@@ -212,6 +214,39 @@ For a fresh run, execute the data retrieval, curation, validation, and analysis 
 - Investigate the biological context of high-centrality proteins and detected communities.
 - Improve reproducibility with documented analysis commands and automated tests.
 - Explore an interactive interface for inspecting network structure and protein-level metrics.
+
+## References
+
+### Scientific Publications
+
+Hubel, P., Urban, C., Bergant, V., Schneider, W. M., Knauer, B., Stukalov, A., Scaturro, P., Mann, A., Brunotte, L., Hoffmann, H. H., Schoggins, J. W., Schwemmle, M., Mann, M., Rice, C. M., & Pichlmair, A. (2019). A protein-interaction network of interferon-stimulated genes extends the innate immune system landscape. *Nature Immunology, 20*(4), 493–502. https://doi.org/10.1038/s41590-019-0323-3
+
+Milacic, M., Beavers, D., Conley, P., Gong, C., Gillespie, M., Griss, J., Haw, R., Jassal, B., Matthews, L., May, B., Petryszak, R., Ragueneau, E., Rothfels, K., Sevilla, C., Shamovsky, V., Stephan, R., Tiwari, K., Varusai, T., Weiser, J., ... D’Eustachio, P. (2024). The Reactome Pathway Knowledgebase 2024. *Nucleic Acids Research, 52*(D1), D672–D678. https://doi.org/10.1093/nar/gkad1025
+
+Szklarczyk, D., Kirsch, R., Koutrouli, M., Nastou, K., Mehryary, F., Hachilif, R., Gable, A. L., Fang, T., Doncheva, N. T., Pyysalo, S., Bork, P., Jensen, L. J., & von Mering, C. (2023). The STRING database in 2023: Protein–protein association networks and functional enrichment analyses for any sequenced genome of interest. *Nucleic Acids Research, 51*(D1), D638–D646. https://doi.org/10.1093/nar/gkac1000
+
+The UniProt Consortium. (2023). UniProt: The Universal Protein Knowledgebase in 2023. *Nucleic Acids Research, 51*(D1), D523–D531. https://doi.org/10.1093/nar/gkac1052
+
+Hagberg, A. A., Schult, D. A., & Swart, P. J. (2008). Exploring network structure, dynamics, and function using NetworkX. In G. Varoquaux, T. Vaught, & J. Millman (Eds.), *Proceedings of the 7th Python in Science Conference* (pp. 11–15). https://doi.org/10.25080/TCWV9851
+
+### Biological Databases
+
+- Reactome. *Human interferon signaling (R-HSA-913531).* https://reactome.org/content/detail/R-HSA-913531
+- STRING. *Functional protein association networks.* https://string-db.org/
+- UniProt. *Universal Protein Resource.* https://www.uniprot.org/
+
+### Software Documentation
+
+- NetworkX. https://networkx.org/documentation/stable/
+- Plotly. https://plotly.com/python/
+
+### Data and Methodology Note
+
+Candidate proteins were derived from the Reactome human interferon-signaling pathway (R-HSA-913531). UniProt was used for protein-reference and species validation. Functional protein associations were retrieved through the STRING API using a minimum combined confidence score of 0.700. STRING version 12.5 was reported by the version endpoint, but the release used for the original extraction has not been independently confirmed.
+
+Network analysis was performed using Python and NetworkX, and interactive visualizations were generated using Plotly.
+
+STRING associations can represent functional relationships and do not necessarily indicate direct physical interactions. Centrality and community results describe network topology and should not be interpreted as proof of biological causality.
 
 ## Acknowledgements
 
