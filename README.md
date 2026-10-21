@@ -106,12 +106,6 @@ Shared members included STAT1, STAT2, JAK1, JAK2, TYK2, IRF9, ISG15, DDX58, MAVS
 
 Together, these findings show that the inferred network contains recognizable interferon-associated functional structure, while also demonstrating that community assignments depend partly on the selected confidence threshold.
 
-## Interactive Visualizations
-
-The project generates two interactive HTML files:
-
--
-
 ## Visualizations
 
 - **Full network:** [Open network HTML](results/visualizations/reference_network/interferon_network.html)
